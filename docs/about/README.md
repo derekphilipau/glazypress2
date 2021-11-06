@@ -26,8 +26,6 @@ Ideas for improving Glazy?  Encounter a bug?  Questions about glazes in general?
 
 Glazy is a work in progress. If you notice a bug or have an idea to improve Glazy, please contact us at **derek [at] glazy [dot] org**.
 
-If you have a question about a specific recipe or material, the [Ceramics Recipes Group](https://www.facebook.com/groups/disisdkat/) on Facebook is a great place to ask.
-
 ## Privacy & Terms of Use
 
-Before using Glazy, please review and agree to the [Privacy Policy](/about/privacy) and [Terms of Service](/about/terms-of-service).
+Before using Glazy, please review and agree to the [Privacy Policy](/about/privacy.html) and [Terms of Service](/about/terms-of-service.html).

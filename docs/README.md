@@ -1,9 +1,9 @@
 ---
 home: true
-heroImage: /img/logo_600_square.png
+heroImage: /img/logo_home.png
 actionText: Get Started →
 actionLink: /guide/
-footer: Copyright © 2020-present Derek Au
+footer: Copyright ©2015-2021, Glazy.org
 ---
 
 <div class="features">

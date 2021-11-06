@@ -576,5 +576,3 @@ UMF Unity oxides in various software programs:
 </tr>
 </tbody>
 </table>
-
-https://youtu.be/HyLjAg1_8_4
