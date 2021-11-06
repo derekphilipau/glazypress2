@@ -39,9 +39,9 @@ module.exports = {
       { text: 'Support', link: '/support#how-to-support-glazy' },
       { text: 'Glazy.org', link: 'https://glazy.org' },
     ],
-    sidebarDepth: 2,
     editLink: false,
     contributors: false,
+    sidebarDepth: 2,
     sidebar: [
       {
         text: 'Support',
