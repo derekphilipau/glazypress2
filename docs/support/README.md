@@ -29,17 +29,16 @@ For example:
 **Subscription donations** of at least $2 per month also get the "Patron" badge and special features listed below.
 *NOTE: Please allow 24 hours for your Glazy Patron status to be updated.*
 
-[To make a one-time or recurring donation to Glazy using Paypal, click here or on the _"Donate"_ button below.](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url)  
+[To make a one-time or recurring donation to Glazy using Paypal, click here or on the _"Donate"_ button below.](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url)
 
-[![Donate to Glazy via Paypal!](/img/support/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url) 
+[![Donate to Glazy via Paypal!](./img/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url)
 
 ### Patreon (Not Recommended)
 
 ***NOTE:  As of October 2020 I'm recommending people who want to support Glazy to use the PayPal link above.  If you don't wish to use PayPal, you can still sign up by clicking the Patreon button below.  Nothing will change for Patreon Patrons, they will continue to have the same benefits as before.***
 
-<a href="https://www.patreon.com/bePatron?u=5941215">
-<img src="/img/support/logo-patreon.png" height="36" alt="Become a Patreon Sponsor" />
-</a>
+[![Become a Patreon Sponsor](./img/patreon-logo.png)](https://www.patreon.com/bePatron?u=5941215)
+
 
 ## Glazy Patron Special Features
 
@@ -51,59 +50,59 @@ Just open a Recipe, Material, or Analysis in the Calculator and click the "Targe
 
 ***[Learn more about Target & Solve here.](/guide/targetsolve)***
 
-<img src="/img/support/benefits/solve.jpg" alt="Target & Solve" />
+<img src="./img/benefits/solve.jpg" alt="Target & Solve" />
 
 ### Blends
 
 Patrons can easily make Line, Triaxial and Biaxial blends between 2-4 recipes.
 
-<img src="/img/support/benefits/blends.jpg" alt="Blends" />
+<img src="./img/benefits/blends.jpg" alt="Blends" />
 
 ### Dark Mode
 
 By clicking the "Dark Mode" button, you can easily switch between light and dark versions of Glazy.
 
-<img src="/img/support/benefits/darkmode.jpg" alt="Dark Mode" />
+<img src="./img/benefits/darkmode.jpg" alt="Dark Mode" />
 
 ### Calculated Thermal Expansion
 
 For Patrons, Calculated Thermal Expansion is shown in the search, recipe, and calculator.
 
-<img src="/img/support/benefits/calculatedexpansion.jpg" alt="Calculated Thermal Expansion" />
+<img src="./img/benefits/calculatedexpansion.jpg" alt="Calculated Thermal Expansion" />
 
 ### Decimal Places
 
 Patrons can adjust the number of decimal places they use in the Calculator.  This can be very handy when working with exact substitutions in UMF.
 
-<img src="/img/support/benefits/decimal.jpg" alt="Decimal Places" />
+<img src="./img/benefits/decimal.jpg" alt="Decimal Places" />
 
 ### Limits
 
 Various glaze limits can be layered on top of the Glazy Calculator Chart.
 
-<img src="/img/support/benefits/limits.jpg" alt="Limits" />
+<img src="./img/benefits/limits.jpg" alt="Limits" />
 
-### Patron Badge 
+### Patron Badge
 
 Patrons receive the "Patron" badge next to their name in Glazy.
 
-<img src="/img/support/badge_patron.png" alt="Glazy Patron Badge" />
+<img src="./img/badge_patron.png" alt="Glazy Patron Badge" />
 
 ### Alchemist Badge
 
-In order to show appreciation for ALL contributors, the Alchemist badge was added.  This badge is shown when a user has uploaded 20 or more photos to Glazy.  Photos are essential to understanding what a recipe looks like, as well as to compare differences between materials, preparation, and firing types.  
+In order to show appreciation for ALL contributors, the Alchemist badge was added.  This badge is shown when a user has uploaded 20 or more photos to Glazy.  Photos are essential to understanding what a recipe looks like, as well as to compare differences between materials, preparation, and firing types.
 
-<img src="/img/support/badge_alchemist.jpg" alt="Glazy Alchemist Badge" />
+<img src="./img/badge_alchemist.jpg" alt="Glazy Alchemist Badge" />
 
 ## Patreon Sponsors
 
-The top level of Patreon sponsorship is the Patron level at $100 USD/mo.  
+The top level of Patreon sponsorship is the Patron level at $100 USD/mo.
 
 Benefits of this level are having your company, school, or organization's logo displayed on the Glazy website footer as well as in this section of the Glazy Help site.
 
 ### [Might Mud Mixer](https://mightymudmixer.com/)
 
-[![Might Mud Mixer](/img/support/logo_mighty_color.png)](https://mightymudmixer.com/)
+[![Might Mud Mixer](./img/logo_mighty_color.png)](https://mightymudmixer.com/)
 
 Found a beautiful glaze on Glazy but don't have the materials or space to mix the recipe yourself?
 Might Mud Mixer will mix up the glaze and ship it to you!  Or you can order one of Mighty Mud Mixer's
@@ -111,13 +110,13 @@ beatiful, tested, and reliable glaze recipes.  Just visit <a href="https://might
 
 ### [Gasworks NYC](https://gasworksnyc.com)
 
-[![Gasworks](/img/support/logo-gasworks.png)](https://gasworksnyc.com)
+[![Gasworks](./img/logo-gasworks.png)](https://gasworksnyc.com)
 
-In addition to their exciting lineup of classes, workshops, and other events, Gasworks NYC has been releasing a steady stream of beautiful ceramics tests on their Instagram account.  They've also released a number of studio glazes on their Glazy page, https://glazy.org/u/gasworksnyc  
+In addition to their exciting lineup of classes, workshops, and other events, Gasworks NYC has been releasing a steady stream of beautiful ceramics tests on their Instagram account.  They've also released a number of studio glazes on their Glazy page, https://glazy.org/u/gasworksnyc
 
 ### [Ovo Ceramics](https://www.instagram.com/ovo_ceramics/)
 
-[![Ovo Ceramics](/img/support/logo-ovo.png)](https://www.instagram.com/ovo_ceramics/)
+[![Ovo Ceramics](./img/logo-ovo.png)](https://www.instagram.com/ovo_ceramics/)
 
 Александр Бердин-Лазурский.
 Школа керамики.

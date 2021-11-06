@@ -1,5 +1,5 @@
 # Getting Started
-  
+
 Before doing anything, please read the
 [Disclaimer & Health Warning](/about/health-warning.html)
 and be aware of the dangers when mixing, working with and firing
@@ -13,10 +13,10 @@ Glazy will work on mobile, tablet, and desktop devices.  However, due to limited
 
 ## What Browser?
 
-In an ideal world, there would be multiple healthy browsers that support the same web standards.  
+In an ideal world, there would be multiple healthy browsers that support the same web standards.
 In reality, each browser is slightly different, and it takes time and effort to make a website run on each browser.
 
-Because Glazy lacks resources, we can only test against a single browser, Google Chrome.  
+Because Glazy lacks resources, we can only test against a single browser, Google Chrome.
 Chrome can be installed on almost any device, from computers to mobile phones.
 
 [Download Google Chrome Now!](https://www.google.com/chrome/)
@@ -38,7 +38,7 @@ Some functions, like searching recipe and viewing recipes do not require you to 
 However, to take advantage of the full power of Glazy, please create a free Glazy account and login.
 
 Glazy is 100% free for use by anyone.  Glazy doesn't spy on you, sell your information to third parties, or otherwise profit on you in any way.
-  
+
 However, before joining Glazy, please read the
 [Privacy Policy](/about/privacy.html) and
 [Terms of Service](/about/terms-of-service.html).
@@ -55,6 +55,6 @@ You can add social media links, change your user photo, download your data, and 
 
 ## Dark Mode
 
-[Glazy Patrons](/support.html#glazy-patron-special-features) get access to the Dark Mode special feature.  Just click the contrast button in the top-right corner of the menu (see screenshot below) to switch Glazy between Light and Dark mode.
+[Glazy Patrons](/support/#glazy-patron-special-features) get access to the Dark Mode special feature.  Just click the contrast button in the top-right corner of the menu (see screenshot below) to switch Glazy between Light and Dark mode.
 
 ![Dark Mode](./img/darkmode.jpg)

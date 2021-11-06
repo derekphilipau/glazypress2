@@ -36,7 +36,7 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about/' },
       { text: 'Guide', link: '/guide/' },
-      { text: 'Support', link: '/support#how-to-support-glazy' },
+      { text: 'Support', link: '/support/#why-support-glazy' },
       { text: 'Glazy.org', link: 'https://glazy.org' },
     ],
     editLink: false,
@@ -45,7 +45,7 @@ module.exports = {
     sidebar: [
       {
         text: 'Support',
-        link: '/support.md',
+        link: '/support/',
       },
       {
         text: 'About',
@@ -91,6 +91,7 @@ module.exports = {
           '/concepts/analysis/percent.md',
           '/concepts/analysis/formula.md',
           '/concepts/analysis/umf.md',
+          '/concepts/analysis/cte.md',
           '/concepts/calculation/',
           '/concepts/firing/',
           '/concepts/temperature/',

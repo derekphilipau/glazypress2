@@ -8,19 +8,19 @@ footer: Copyright ©2015-2021, Glazy.org
 
 <div class="features">
   <div class="feature">
-    <h2><a href="/support.html#how-to-support-glazy">Become a Patron →</a></h2> 
+    <h2><a href="/support/#why-support-glazy">Become a Patron →</a></h2>
     <p>
       Support Glazy and get access to special features
     </p>
   </div>
   <div class="feature">
-    <h2><a href="/guide/">Glazy Guide →</a></h2> 
+    <h2><a href="/guide/">Glazy Guide →</a></h2>
     <p>
       Learn how to use Glazy
     </p>
   </div>
   <div class="feature">
-    <h2><a href="/testing/mixing-tests/">Testing →</a></h2> 
+    <h2><a href="/testing/mixing-tests/">Testing →</a></h2>
     <p>
       Learn how to test recipes
     </p>
@@ -29,19 +29,19 @@ footer: Copyright ©2015-2021, Glazy.org
 
 <div class="features">
   <div class="feature">
-    <h2>100% Free</h2> 
+    <h2>100% Free</h2>
     <p>
       Create a personalized account, make ceramic materials and recipes.  Bookmark & review your favorites!
     </p>
   </div>
   <div class="feature">
-    <h2>User Supported</h2> 
+    <h2>User Supported</h2>
     <p>
       Glazy's server fees are paid for by donations by people like you!
     </p>
   </div>
   <div class="feature">
-    <h2>Learn & Share</h2> 
+    <h2>Learn & Share</h2>
     <p>
       We promote sharing and testing in order to learn more about ceramic chemistry while verifying and improving results.
     </p>
@@ -50,7 +50,7 @@ footer: Copyright ©2015-2021, Glazy.org
 
 ## Need help?
 
-[You can read the Guide here.](/guide/)  
+[You can read the Guide here.](/guide/)
 
 If you cannot login or need to delete your account, please email **derek [at] glazy [dot] org**.
 
