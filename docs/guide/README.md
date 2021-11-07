@@ -5,6 +5,12 @@ Before doing anything, please read the
 and be aware of the dangers when mixing, working with and firing
 ceramic materials.
 
+## 7-minute Quick Introduction
+
+This video introduces all the major functionality in Glazy: How to create an account, navigation, creating recipes, and more.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UAvtB0zE358" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## What Device?
 
 Glazy will work on mobile, tablet, and desktop devices.  However, due to limited screen size, some information and features may not be displayed on mobile devices.  It's recommended to use tablets or desktops for Glazy if you intend to access more complex Glazy features like creating recipes in the Calculator.

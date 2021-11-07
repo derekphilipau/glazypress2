@@ -8,10 +8,67 @@ https://trello.com/b/eDgddvpB/glazy
 
 ## Changelog
 
-Note: This abbreviated changelog only includes new feature additions to Glazy.  
+Note: This abbreviated changelog only includes new feature additions to Glazy.
 It does not list bug fixes, minor updates, or software upgrades.
 
+## 2021
+
+#### October-November
+* New User Interface
+
+#### September
+* New Collections (Bookmark folders) page
+* Collections sorting (recently used first)
+
+#### August
+* New authentication backend
+
+#### May
+* Delete user - remove all data
+* Quick search refinements
+* Mobile formatting
+
+#### April
+* Gloop category
+* New glazy-data snapshot
+* Locale-based number formatting
+
+#### March
+* Improved language search (fuse)
+
+#### February
+* Fallback locales
+* Automatic Translations (deepl & google)
+* Revision parents
+
+
+#### January
+* Quick Search improvements
+* Analysis table & sorting
+* Target & Solve enhancements
+
 ## 2020
+
+#### December
+* Ability to import multiple recipes
+* Improved Print Label View
+* Keyboard navigation in Calculator
+
+#### November
+* Unified user chart preferences
+* Ability to add recipes within Calculator
+* Better text searching (e.g. handle apostrophes)
+
+#### October
+
+* Improved logs & log search
+* Ability to lock materials
+* Show UMF for all recipe types including clay bodies
+
+#### September
+* Improve calculator chart
+* Triaxial blends
+* Ability to add photos in comments
 
 #### August
 * Revise calculation engine
