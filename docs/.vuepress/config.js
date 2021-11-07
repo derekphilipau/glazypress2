@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/glazypress2/',
   locales: {
     '/': {
       lang: 'en-US',
