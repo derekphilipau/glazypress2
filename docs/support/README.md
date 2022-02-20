@@ -16,7 +16,7 @@ The best way to support Glazy is to use it! Uploading images of glazes, verifyin
 
 ### Free for Student & Teachers
 
-If you are currently a student or teacher, simply register with a .edu email address and you will automatically be given 12 months of Patron status for free.  If your school doesn't use the .edu domain, just send a photo of your Student ID or other proof of enrollment to **derek [at] glazy [dot] org**.
+If you are currently a student or teacher in Ceramics or a related Visual Arts department, simply register with a .edu email address and you will automatically be given 12 months of Patron status for free.  If your school doesn't use the .edu domain, just send a photo of your Student ID or other proof of enrollment to **derek [at] glazy [dot] org**.
 
 ### Recommended Method: PayPal
 
