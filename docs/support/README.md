@@ -113,12 +113,3 @@ beatiful, tested, and reliable glaze recipes.  Just visit <a href="https://might
 [![Gasworks](./img/logo-gasworks.png)](https://gasworksnyc.com)
 
 In addition to their exciting lineup of classes, workshops, and other events, Gasworks NYC has been releasing a steady stream of beautiful ceramics tests on their Instagram account.  They've also released a number of studio glazes on their Glazy page, https://glazy.org/u/gasworksnyc
-
-### [Ovo Ceramics](https://www.instagram.com/ovo_ceramics/)
-
-[![Ovo Ceramics](./img/logo-ovo.png)](https://www.instagram.com/ovo_ceramics/)
-
-Александр Бердин-Лазурский.
-Школа керамики.
-Гончарные инструменты #ovotools и посуда на сайте:
-[ceramicschool.ru/ovoshop](ceramicschool.ru/ovoshop)
