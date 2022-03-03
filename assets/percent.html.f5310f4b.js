@@ -1,0 +1,1 @@
+import{o as e,c as t,a,e as s}from"./app.e7543a9d.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const c={},n={id:"percent-analysis",tabindex:"-1"},o=a("a",{class:"header-anchor",href:"#percent-analysis","aria-hidden":"true"},"#",-1),_=s(" Percent Analysis"),i=[o,_];function d(h,l){return e(),t("h1",n,i)}var m=r(c,[["render",d]]);export{m as default};
