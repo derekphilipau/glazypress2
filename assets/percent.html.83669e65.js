@@ -1,1 +1,0 @@
-const e={key:"v-4306e93c",path:"/concepts/analysis/percent.html",title:"Percent Analysis",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:162656264e4},filePathRelative:"concepts/analysis/percent.md"};export{e as data};

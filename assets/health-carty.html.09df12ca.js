@@ -1,1 +1,0 @@
-const e={key:"v-dee53bd4",path:"/about/health-carty.html",title:"Overview of Glaze and Glazing Safety",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Presentation",slug:"presentation",children:[]}],git:{updatedTime:162656264e4},filePathRelative:"about/health-carty.md"};export{e as data};

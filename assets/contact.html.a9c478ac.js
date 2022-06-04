@@ -1,0 +1,1 @@
+const t={key:"v-6d34f632",path:"/contact.html",title:"Contact Glazy",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:162656264e4,contributors:[{name:"Derek Au",email:"derek@derekau.net",commits:1}]},filePathRelative:"contact.md"};export{t as data};

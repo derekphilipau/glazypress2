@@ -1,1 +1,0 @@
-const e={key:"v-f4e7ee8a",path:"/concepts/analysis/formula.html",title:"Formula Analysis",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:162656264e4},filePathRelative:"concepts/analysis/formula.md"};export{e as data};

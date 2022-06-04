@@ -1,0 +1,1 @@
+const e={key:"v-d32669e2",path:"/types/",title:"Types",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Work in Progress",slug:"work-in-progress",children:[]}],git:{updatedTime:162656264e4,contributors:[{name:"Derek Au",email:"derek@derekau.net",commits:1}]},filePathRelative:"types/README.md"};export{e as data};
