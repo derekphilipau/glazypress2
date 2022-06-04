@@ -1,1 +1,0 @@
-const e={key:"v-4eabb1a6",path:"/testing/triaxials/",title:"Triaxial Blends",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:162656264e4,contributors:[{name:"Derek Au",email:"derek@derekau.net",commits:1}]},filePathRelative:"testing/triaxials/README.md"};export{e as data};

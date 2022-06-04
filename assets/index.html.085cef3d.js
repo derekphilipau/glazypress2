@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"",lang:"en-US",frontmatter:{home:!0,heroImage:"/img/logo_home.png",actionText:"Get Started \u2192",actionLink:"/guide/",footer:"Copyright \xA92015-2021, Glazy.org"},excerpt:"",headers:[{level:2,title:"Need help?",slug:"need-help",children:[]}],git:{updatedTime:1636213107e3},filePathRelative:"README.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-4eabb1a6",path:"/testing/triaxials/",title:"Triaxial Blends",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:162656264e4},filePathRelative:"testing/triaxials/README.md"};export{t as data};

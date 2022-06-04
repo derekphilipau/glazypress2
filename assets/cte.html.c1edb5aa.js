@@ -1,0 +1,1 @@
+const e={key:"v-7fd518cd",path:"/concepts/analysis/cte.html",title:"Calculated Thermal Expansion",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1636213107e3},filePathRelative:"concepts/analysis/cte.md"};export{e as data};
