@@ -86,7 +86,7 @@ Various glaze limits can be layered on top of the Glazy Calculator Chart.
 
 Patrons receive the "Patron" badge next to their name in Glazy.
 
-<img src="./img/badge_patron.png" alt="Glazy Patron Badge" />
+<img src="./img/badge_patron.jpg" alt="Glazy Patron Badge" />
 
 ### Alchemist Badge
 
