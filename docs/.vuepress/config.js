@@ -1,3 +1,6 @@
+const { defaultTheme } = require('@vuepress/theme-default')
+const { searchPlugin } = require('@vuepress/plugin-search')
+
 module.exports = {
   base: '/',
   locales: {
@@ -19,18 +22,15 @@ module.exports = {
   ],
   serviceWorker: true,
   plugins: [
-    [
-      '@vuepress/plugin-search',
-      {
-        locales: {
-          '/': {
-            placeholder: 'Search',
-          },
+    searchPlugin({
+      locales: {
+        '/': {
+          placeholder: 'Search',
         },
       },
-    ],
+    }),
   ],
-  themeConfig: {
+  theme: defaultTheme({
     logo: '/img/logo.png',
     smoothScroll: true,
     navbar: [
@@ -42,7 +42,6 @@ module.exports = {
     ],
     editLink: false,
     contributors: false,
-    sidebarDepth: 2,
     sidebar: [
       {
         text: 'Support',
@@ -118,5 +117,5 @@ module.exports = {
         link: '/tools.md'
       }
     ]
-  }
+  })
 }
