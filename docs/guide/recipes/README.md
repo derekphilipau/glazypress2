@@ -7,44 +7,44 @@
 Recipes are combinations of one or more ceramic materials.
 Recipes specify the _proportion_ of one material to another.
 When mixed together, the recipe's materials form a new type
-of material- a clay suitable for throwing, a beautiful, 
+of material- a clay suitable for throwing, a beautiful,
 shiny glaze, or a colorful underglaze.
 
-The recipe below is a classic recipe called 
-**"Leach 4321"**.  **Leach 4321** is often used as an example 
+The recipe below is a classic recipe called
+**"Leach 4321"**.  **Leach 4321** is often used as an example
 because its recipe is very simple and it works well:
 
-#### Leach 4321 
+#### Leach 4321
 
-![Leach 4321](./img/4321.png)
+![Leach 4321](./img/4321.jpg)
 
-Because the recipe lists the _proportion_ of ingredients, 
-you can think of the amounts as _percentages_.  **Leach 4321** 
-is a recipe made up of: 
-  * **40%** Potash Feldspar, 
+Because the recipe lists the _proportion_ of ingredients,
+you can think of the amounts as _percentages_.  **Leach 4321**
+is a recipe made up of:
+  * **40%** Potash Feldspar,
   * **30%** Silica,
-  * **20%** Whiting, and 
+  * **20%** Whiting, and
   * **10%** Kaolin,
-  
+
 For a combined total of **100%**.
 
-It is not unusual to see recipes that do not total to 
-100.  Often, recipes in workshops are written down as **batches** 
+It is not unusual to see recipes that do not total to
+100.  Often, recipes in workshops are written down as **batches**
 rather than 100% proportions.  For example, Leach 4321 can
 also be written as:
-  * **4000g** Potash Feldspar, 
+  * **4000g** Potash Feldspar,
   * **3000g** Silica,
-  * **2000g** Whiting, and 
+  * **2000g** Whiting, and
   * **1000g** Kaolin,
-  
-For a combined total of **10,000g**.  
+
+For a combined total of **10,000g**.
 
 It's important to realize that
 _this is the same recipe as listed above_, just multiplied by 100
 and specifying a unit of measurement.
 Potters often write down recipes in **batch sizes** that they work
 with to make mixing glazes easier.
-A batch size of **10,000g** (like the one above) is often 
+A batch size of **10,000g** (like the one above) is often
 used when making up a large bucket of glaze or clay.
 
 _Note: All recipes are measured by weight, not volume!_
@@ -63,21 +63,21 @@ Please see the [Calculator section](/guide/calculator/)
 
 **batch**, _noun_
 
-2. A quantity required for or produced as the result of one 
-operation: _made a batch of cookie dough; mixed a batch of cement._ 
+2. A quantity required for or produced as the result of one
+operation: _made a batch of cookie dough; mixed a batch of cement._
 [link](https://www.thefreedictionary.com/batch)
 
-Because recipes list _proportions_ of ingredients, no units of 
-measurement are used.  To make this recipe, you can measure in 
+Because recipes list _proportions_ of ingredients, no units of
+measurement are used.  To make this recipe, you can measure in
 ounces or grams, even kilograms or tons!
 
-For convenience ceramicists usually stick to the 
+For convenience ceramicists usually stick to the
 [Metric System](https://en.wikipedia.org/wiki/Metric_system).
 Batches of recipes are measured in _grams_ and _kilograms_.
-Small _test batches_ are usually only 100 or 200 grams, while 
+Small _test batches_ are usually only 100 or 200 grams, while
 batches for daily studio use can be 10 or 20 kilograms.
 
-More information about mixing up batches: 
+More information about mixing up batches:
 [Mixing Test Recipes](/testing/mixing-tests/)
 
 ### The Batch Calculator
@@ -88,11 +88,11 @@ calculate the total amount for each ingredient.
 
 Here we calculate a batch size of 100:
 
-![Leach 4321 100 Batch](./img/4321_batch_100.png)
+![Leach 4321 100 Batch](./img/4321_batch_100.jpg)
 
 And here we calculate a batch size of 200:
 
-![Leach 4321 200 Batch](./img/4321_batch_200.png)
+![Leach 4321 200 Batch](./img/4321_batch_200.jpg)
 
 ## Base Recipes & Additional Ingredients
 
@@ -104,7 +104,7 @@ include the ingredients for making the dough and sauce,
 while toppings like mushrooms and sausage would be
 listed as _additional ingredients_.
 
-For glaze recipes, the _base recipe_ is usually a plain 
+For glaze recipes, the _base recipe_ is usually a plain
 glaze without any color.  _Additional ingredients_ like
 colorants and opacifiers can be added to change the
 look and character of the original _base recipe_.
@@ -114,25 +114,25 @@ ingredient of 1% Red Iron Oxide:
 
 #### Leach 4321 Celadon
 
-![Leach 4321 1 200 Batch](./img/4321_1_batch_100.png)
+![Leach 4321 1 200 Batch](./img/4321_1_batch_100.jpg)
 
 Notice that the name of this recipe has changed.  Because this
-version includes 1% _additive_ Red Iron Oxide, the type of 
+version includes 1% _additive_ Red Iron Oxide, the type of
 glaze changes to a _celadon_.
 
-Also notice that when calculating a **batch**, _additional 
+Also notice that when calculating a **batch**, _additional
 ingredients_ are added _in addition to_ the batch amount.
 (The batch amount is actually the _base batch amount_.)
 So the total batch amount for this batch is 101, not 100.
 
 ## Recipe Information
 
-Each Recipe has descriptive information, or *metadata*, that describes it.  
-In general, the more metadata is added to a recipe, the easier it is to 
+Each Recipe has descriptive information, or *metadata*, that describes it.
+In general, the more metadata is added to a recipe, the easier it is to
 categorize, compare, and search recipes.
 
-Glazy uses *highly structured* data, meaning that instead of allowing users to define descriptive 
-"tags" for recipes (like hashtags in Instagram), users are only allowed to select from a pre-defined, 
+Glazy uses *highly structured* data, meaning that instead of allowing users to define descriptive
+"tags" for recipes (like hashtags in Instagram), users are only allowed to select from a pre-defined,
 finite list of categories.  Unfortunately, the names of these categories are currently only available
 in the English language.  If you do not agree with a category, please contact Glazy and we can discuss
 changing it.
@@ -160,7 +160,7 @@ Only recipes with a status of **Production** are displayed in the default Glazy 
 
 ### Country
 
-It can be useful to associate a recipe with a Country if the ingredients and firing are specific to a location.  
+It can be useful to associate a recipe with a Country if the ingredients and firing are specific to a location.
 For example, many traditional Chinese materials are tied to specific mine and kiln locations.
 
 ## The Unity Molecular Formula (UMF) Chart
@@ -169,16 +169,16 @@ For example, many traditional Chinese materials are tied to specific mine and ki
 
 Each Glazy Search and Recipe page contains a Unity Molecular Formula (UMF) Chart.
 This chart shows the recipes closest to the current recipe.
-The current recipe is represented by a star symbol, while neighboring 
+The current recipe is represented by a star symbol, while neighboring
 recipes are represented by a circle.
 
 ![The UMF Chart](./img/glazy_stull_chart_ui.png)
 
-The UMF Chart defaults to a Silica (x-axis) and Alumina (y-axis) chart, 
+The UMF Chart defaults to a Silica (x-axis) and Alumina (y-axis) chart,
 which is the most commonly used type of chart when looking at glaze chemistry.  But you can
 easily change the two axes to any combination of oxides.
 
-### The Stull Chart 
+### The Stull Chart
 
 Overlayed on top of the UMF Chart is the Stull Chart.
 Here is the original Stull Chart, first published by R. T. Stull in
@@ -191,7 +191,7 @@ This is a slightly updated version of the Stull Chart which is a little more rea
 ![Updated Stull Chart](./img/STULL_Chart_updated.jpg)
 
 The Stull Chart has six regions:
-* **Unfused & Under-fired**:  Glazes in this region have either too much Alumina (Unfused) 
+* **Unfused & Under-fired**:  Glazes in this region have either too much Alumina (Unfused)
 or too much Silica (Under-fired) are not fired to maturity.
 * **Matte**: Glazes in this high-Alumina region are typically "true" matte glazes.
 * **Bright**: In this middle-region, glazes are typically glossy glazes.
@@ -205,35 +205,35 @@ There may be variations in the chart for glazes with different flux ratios fired
 temperatures.
 * The Stull chart does **not** show or predict firing temperature.  So, just because a recipe point
 lies in the "Bright" region does not mean it will be a glossy glaze at your firing temperature.
-* Because **crazing** is a function of both the glaze and clay body, the Stull Crazing Region is 
-highly dependent upon not only the glaze chemistry but also that of the clay body.  So the 
+* Because **crazing** is a function of both the glaze and clay body, the Stull Crazing Region is
+highly dependent upon not only the glaze chemistry but also that of the clay body.  So the
 Crazing Region will be quite different depending upon these factors.
-* *In spite of all these limitations*, the Stull Chart Regions of Unfused & Under-fired, Matte, 
-Semi-matte, and Bright still hold true at a number of different temperatures with a range of 
-flux ratios and flux types.  For futher information about how to apply the Stull Chart, please see 
+* *In spite of all these limitations*, the Stull Chart Regions of Unfused & Under-fired, Matte,
+Semi-matte, and Bright still hold true at a number of different temperatures with a range of
+flux ratios and flux types.  For futher information about how to apply the Stull Chart, please see
 the work of Matt Katz (some articles linked below).
 
 Some of Matt Katz's research of the Stull:
-[Introduction to Glaze Formulation Online](http://art.alfred.edu/academics/glaze-formulation.cfm), 
-[Robust Mid-Temperature Glazes](http://mattanddavesclays.com/Science/Katz-NCECA%202012-PDF.pdf) 
+[Introduction to Glaze Formulation Online](http://art.alfred.edu/academics/glaze-formulation.cfm),
+[Robust Mid-Temperature Glazes](http://mattanddavesclays.com/Science/Katz-NCECA%202012-PDF.pdf)
 and [How Glazes Melt](http://mattanddavesclays.com/Science/Finkelnburg-NCECA%202012-PDF.pdf).
 
 
 ### Glazy Stull Chart
 
-Due to space limitations in the website, the Glazy Stull Chart looks slightly different than the above chart, 
+Due to space limitations in the website, the Glazy Stull Chart looks slightly different than the above chart,
 lacking the region names and color codings, but otherwise is the same.
 Each point on the chart represents a recipe.
 In this example you can see that most of the recipes fall within the Stull "Bright" region.
 
 ![Glazy Stull Chart](./img/glazy_stull.jpg)
 
-Each point representing a recipe has two color codings.  The inner color of the point represents the **R2O:RO Ratio**, 
+Each point representing a recipe has two color codings.  The inner color of the point represents the **R2O:RO Ratio**,
 while the point outline represents the amount of **Boron**.
 
 ### R2O:RO Ratio
 
-![R2O:RO Ratio](./img/ror2oscale.png) 
+![R2O:RO Ratio](./img/ror2oscale.png)
 
 _The R2O:RO Ratio Scale shown in the Stull Chart._
 
@@ -248,29 +248,29 @@ Matt Katz has demonstrated that a 0.3 R2O: 0.7 RO ratio produces the
 most robust glazes at a range of temperatures.
 
 Also see Matt Katz's
-[Introduction to Glaze Formulation Online](http://art.alfred.edu/academics/glaze-formulation.cfm), 
-[Robust Mid-Temperature Glazes](http://mattanddavesclays.com/Science/Katz-NCECA%202012-PDF.pdf) 
+[Introduction to Glaze Formulation Online](http://art.alfred.edu/academics/glaze-formulation.cfm),
+[Robust Mid-Temperature Glazes](http://mattanddavesclays.com/Science/Katz-NCECA%202012-PDF.pdf)
 and [How Glazes Melt](http://mattanddavesclays.com/Science/Finkelnburg-NCECA%202012-PDF.pdf).
 
 ### Boron Level
 
 The outline of each recipe point represents the amount of boron.
-Recipes containing boron have an orange outline, 
+Recipes containing boron have an orange outline,
 and the thickness of the outline represents the amount of boron.
 Typically, glazes lower in temperature will contain more boron.
 
-![Boron Scale](./img/UMFChartBoron2.png) 
+![Boron Scale](./img/UMFChartBoron2.png)
 
 ### UMF Chart Trends
 
 The following charts show all public Glazy recipes for Low-Fire, Mid-Fire, and High-Fire.
 Three trends stand out:
 * The vast majority of recipes fall within the Stull "Bright" region.
-* As recipes increase in temperature, so do their Silica and Alumina levels 
+* As recipes increase in temperature, so do their Silica and Alumina levels
 (points are located higher in the chart).
 * As recipes decrease in temperature, Boron increases (orange outline thickens).
 
-![Low, Mid, and High fire recipes](./img/stull_boron.jpg) 
+![Low, Mid, and High fire recipes](./img/stull_boron.jpg)
 
 ### Stull Al/Si chart showing Leach 4321 analysis using different feldspars.
 
@@ -291,12 +291,12 @@ This video shows the basics of how to use the Stull Chart in Glazy:
 ### Filtering the Chart
 
 The chart can be filtered by using the form on the right.  The recipe
-category can be changed 
-(in the above screenshot, the category is Iron - Celadon - Blue), or 
-the temperature can be filtered, or the axes of the graph can be 
+category can be changed
+(in the above screenshot, the category is Iron - Celadon - Blue), or
+the temperature can be filtered, or the axes of the graph can be
 modified.
 
-The chart always loads as a plot of the oxides 
+The chart always loads as a plot of the oxides
 SiO<sub>2</sub> and Al<sub>2</sub>O<sub>3</sub>
 
 Because the Stull Chart is based on SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3</sub>,
@@ -313,12 +313,12 @@ do not have photos and will only display as a greyed-out square.
 ### Zooming in the chart
 
 While the UMF Chart in the search can automatically be Pinched & Zoomed,
-the UMF Chart on the recipe page initially has Pinch & Zoom disabled in 
+the UMF Chart on the recipe page initially has Pinch & Zoom disabled in
 order to avoid accidental zooming.
 
 Just click the "Allow Zoom" button to start zooming.
 
-![UMF Chart Allow Zoom](./img/allow_zoom.png)
+![UMF Chart Allow Zoom](./img/allow_zoom.jpg)
 
 ## Similar Recipes & Analyses
 
@@ -350,7 +350,7 @@ only vary by %1.
 
 ## Similar Analyses
 
-![Similar Analyses](./img/similar_analyses.png)
+![Similar Analyses](./img/similar_analyses.jpg)
 
 Two recipes are considered to have similar unity formulas if their
 oxides do not differ more than .05 For this comparison, K2O and Na2O are
@@ -406,7 +406,7 @@ Recipe Card image can be saved on your computer or shared with others
 online. The downloaded glaze calculation software text file can be
 imported into your program.
 
-<!--- 
+<!---
 
 ## Hazards
 
@@ -612,4 +612,4 @@ on Wikipedia.
   * [Ceramic Arts Daily: Respirators for Potters](http://ceramicartsdaily.org/uncategorized/respirators-for-potters/)
   * [Digitalfire: Being Realistic About Toxicity and Safety in Ceramics](https://digitalfire.com/4sight/education/being_realistic_about_toxicity_and_safety_in_ceramics_278.html)
   * [Digitalfire: Ceramic Hazards](https://digitalfire.com/4sight/hazards/index.html)
- ---> 
+ --->

@@ -35,7 +35,7 @@ If you cannot login, please email **derek [at] glazy [dot] org**.
 
 Ideas for improving Glazy?  Encounter a bug?  Questions about glazes in general?  Just log into Glazy and click the "? Help" button to create a new Glazy Help Post (see screenshot below).
 
-![Make a Help Post](/img/screenshots/help-post.png)
+![Make a Help Post](./../about/img/help-post.jpg)
 
 ## Joining Glazy
 
@@ -63,4 +63,4 @@ You can add social media links, change your user photo, download your data, and 
 
 [Glazy Patrons](/support/#glazy-patron-special-features) get access to the Dark Mode special feature.  Just click the contrast button in the top-right corner of the menu (see screenshot below) to switch Glazy between Light and Dark mode.
 
-![Dark Mode](./img/darkmode.jpg)
+![Dark Mode](../support/img/benefits/darkmode.jpg)

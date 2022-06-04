@@ -16,8 +16,8 @@ Search is case-insensitive, i.e. searching for *"Hamada"* is the same as searchi
 
 Examples of keyword searches:
 
- * **"2967"**  
- Because the search term is a number, search for any recipe or material ID's equal to "2967" 
+ * **"2967"**
+ Because the search term is a number, search for any recipe or material ID's equal to "2967"
 **OR** search for any items that have the string "2967" in the name or description.
  * **"Hamada Rust"**
  Search for the *exact phrase* "Hamada Rust" **OR** any item containing the words beginning with "Hamada" **AND** "Rust"
@@ -191,7 +191,7 @@ The categories in this book are based on a combination of glaze color, coloring 
 
 ## Temperature & Cones
 
-<a href="{!! URL::route('content.help.cones') !!}">Temperature Equivalent Charts for Orton Cones</a>
+<a href="/concepts/temperature/">Temperature Equivalent Charts for Orton Cones</a>
 
 Glazes are categorized by their Orton Cone firing temperature.
 

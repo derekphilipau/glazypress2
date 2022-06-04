@@ -6,9 +6,9 @@ You can organize recipes and materials in Glazy in two ways:
 
 ## Metadata
 
-![Editing Recipe Metadata](./img/metadata.png)
+![Editing Recipe Metadata](./img/metadata.jpg)
 
-It's important to add metadata so that you and others can easily find recipes and materials.  
+It's important to add metadata so that you and others can easily find recipes and materials.
 
 For example, imagine you are looking for a blue glaze.  You can search for the keyword *"blue"*, but only recipes with the actual word *"blue"* in the name or description will be found.  But there are many blue recipes that don't actually have the word *"blue"* in the name or description.  Glazy also has many blue glazes contributed by users from other countries, and they have written *"blue"* in their own language.
 

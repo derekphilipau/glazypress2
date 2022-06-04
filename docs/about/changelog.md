@@ -11,9 +11,22 @@ https://trello.com/b/eDgddvpB/glazy
 Note: This abbreviated changelog only includes new feature additions to Glazy.
 It does not list bug fixes, minor updates, or software upgrades.
 
+## 2022
+
+#### May
+* Target & Solve refinements.
+* New Feature: Kiln Charts
+* Glazy Chart updates
+* Performance improvements (user materials)
+* New version alert
+
+#### January-May
+* New User Interface
+* Backend upgrade
+
 ## 2021
 
-#### October-November
+#### October-December
 * New User Interface
 
 #### September

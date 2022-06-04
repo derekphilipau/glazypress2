@@ -34,7 +34,6 @@ module.exports = {
     logo: '/img/logo.png',
     smoothScroll: true,
     navbar: [
-      { text: 'Home', link: '/' },
       { text: 'About', link: '/about/' },
       { text: 'Guide', link: '/guide/' },
       { text: 'Support', link: '/support/#why-support-glazy' },

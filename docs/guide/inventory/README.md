@@ -32,7 +32,7 @@ _(In the future, the inventory page will be able to keep track of how much mater
 1. Log in to Glazy
 2. Find the material you want to add at https://glazy.org/materials/
 3. Click the **"Add to Inventory"** button.
-![GlazyAddInventory](./img/GlazyAddInventory.png)
+![GlazyAddInventory](./img/GlazyAddInventory.jpg)
 
 The material is now available in your
 [inventory](https://glazy.org/inventory) and

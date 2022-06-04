@@ -7,10 +7,10 @@ the **Chemical Analysis** of the recipe is automatically calculated.
 
 The recipe is also automatically plotted on the Si:Al chart.
 
-![The Glazy Calculator](./img/calc4321.png)
+![The Glazy Calculator](./img/calc4321.jpg)
 
 
-## How to Create a Recipe 
+## How to Create a Recipe
 
 This video shows how to create a recipe using the Calculator:
 
@@ -31,7 +31,7 @@ _(In the future, the inventory page will be able to keep track of how much mater
 1. Log in to Glazy
 2. Find the material you want to add at https://glazy.org/materials/
 3. Click the **"Add to Inventory"** button.
-![GlazyAddInventory](./img/GlazyAddInventory.png)
+![GlazyAddInventory](../inventory/img/GlazyAddInventory.jpg)
 
 The material is now available in your
 [inventory](https://glazy.org/inventory) and
@@ -41,7 +41,7 @@ The material is now available in your
 
 You can also add materials to your inventory directly from the Calculator.  Just type the name of the material you are looking for:
 
-![Calculator Invenory Search](./img/calcinventory.png)
+![Calculator Invenory Search](./img/calcinventory.jpg)
 
 ## Automatically Importing Recipes
 

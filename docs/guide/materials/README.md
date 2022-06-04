@@ -12,12 +12,12 @@ each bag of your material may differ more or less from the analysis.
 
 ## Theoretical Materials
 
-All material analyses are to some extent _theoretical_ in that 
+All material analyses are to some extent _theoretical_ in that
 they approximate actual real-world materials.  The actual materials
-we use in the studio come from various natural sources and contain 
-impurities and inconsistencies.  For example, there are many types 
-of Potash Feldspar, and each type has a different analysis.  Even 
-within types of Potash Feldspar, there may be different analyses 
+we use in the studio come from various natural sources and contain
+impurities and inconsistencies.  For example, there are many types
+of Potash Feldspar, and each type has a different analysis.  Even
+within types of Potash Feldspar, there may be different analyses
 for different batches of material at different times.
 
 Imagine you are at a grocery store but didn't know what to cook.
@@ -33,14 +33,14 @@ _Ingredients:_
   * 1 teaspoon of salt
   * 1 teaspoon of pepper
 
-What does "1 pound of meat" mean?  It could be steak, chicken, 
-or fish, and the final dish would be much different with each 
-type.  You see in the recipe reviews that people used fish, but 
+What does "1 pound of meat" mean?  It could be steak, chicken,
+or fish, and the final dish would be much different with each
+type.  You see in the recipe reviews that people used fish, but
 they didn't mention what type of fish.  Freshwater, saltwater?
 
-Just as with our fictional "Roasted Delight" recipe, some older 
-glaze recipes just list "Feldspar" (meat) or "Potash Feldspar" 
-(fish).  
+Just as with our fictional "Roasted Delight" recipe, some older
+glaze recipes just list "Feldspar" (meat) or "Potash Feldspar"
+(fish).
 
 **A sample of analyses for Custer Feldspar, a type of Potash Feldspar:**
 
@@ -121,11 +121,11 @@ glaze recipes just list "Feldspar" (meat) or "Potash Feldspar"
 </tbody>
 </table>
 
-When working with actual materials in the studio, it's best to use the 
+When working with actual materials in the studio, it's best to use the
 most accurate analysis you can find for each material.
 
 
-## Material Metadata 
+## Material Metadata
 
 ### Subtype
 
@@ -133,8 +133,8 @@ Materials can be set as a subtype of one of the following values:
 
 *Alumina, Ash, Clay, Colorant, Miscellaneous, Feldspar, Flux, Frit, Opacifier, Silica*
 
-This list of subtypes was inherited from imported recipe data and are still used 
-because no one has yet suggested a better list.  The subtype is simply an organizational 
+This list of subtypes was inherited from imported recipe data and are still used
+because no one has yet suggested a better list.  The subtype is simply an organizational
 tool used to group materials together.
 
 ### Parent Material
@@ -149,7 +149,7 @@ As an example, let's look at the classic Leach 4321:
  * 20 Whiting
  * 10 Kaolin
 
-Now imagine you wish to make a batch of this recipe.  You look everywhere in your 
+Now imagine you wish to make a batch of this recipe.  You look everywhere in your
 studio for materials called "Potash Feldspar" and "Kaolin" but cannot find them.
 However, you do find "Custer Feldspar" and "EPK", and you realize that these materials
 are *types* of Potash Feldspar and Kaolin, respectively.  Your final recipe batch of Leach 4321 is:
@@ -157,17 +157,17 @@ are *types* of Potash Feldspar and Kaolin, respectively.  Your final recipe batc
  * 30 Silica
  * 20 Whiting
  * 10 EPK
- 
-While technically both of the above recipes are "Leach 4321", they differ in both materials 
-used as well as final chemical analysis.  However, when comparing glaze recipes we often want to 
-overlook slight differences in chemistry between similar materials (in this case, 
+
+While technically both of the above recipes are "Leach 4321", they differ in both materials
+used as well as final chemical analysis.  However, when comparing glaze recipes we often want to
+overlook slight differences in chemistry between similar materials (in this case,
 types of Potash Feldspar and Kaolin).  That is not to say that these differences are not *significant*,
 and in fact some material substitutions may give quite different results.
 
 In Glazy, materials are organized into a *tree*.  In other words, materials can have
-*parents* and *children*.  In the case above using Leach 4321, "Custer Feldspar" is 
-the *child* of "Potash Feldspar".  Similarly, "EPK" is a child of "Kaolin".  This is 
-because there are many types of "Potash Feldspar" and "Kaolin", 
+*parents* and *children*.  In the case above using Leach 4321, "Custer Feldspar" is
+the *child* of "Potash Feldspar".  Similarly, "EPK" is a child of "Kaolin".  This is
+because there are many types of "Potash Feldspar" and "Kaolin",
 "Custer Feldspar" and "EPK" being just a couple of them.
 
 When Glazy attempts to find *similar* base recipes, it does so using the immediate parent
@@ -183,7 +183,7 @@ In this case, the recipe used for comparison is:
  * 20 Whiting
  * 10 Kaolin
 
-Obviously, this is the same recipe as our original Leach 4321.  So Glazy recognizes these 
+Obviously, this is the same recipe as our original Leach 4321.  So Glazy recognizes these
 two recipes as *equivalent*.
 
 When adding new materials to Glazy, it is advisable to specify a Parent Material if possible.
@@ -195,7 +195,7 @@ If adding EPK, SSP, or Helmar Kaolin, the parent should be "Kaolin".
 
 In the Material page you will see a *Parent Material* listed along with any *Sibling Materials*.  Sibling Materials are simply materials that have the same *Parent* as the current Material.  In the case below, Custer Feldspar's *Parent* is Potash Feldspar, and its *Siblings* include other Potash Feldspars like Mahavir Potash Feldspar.
 
-![Parent & Sibling Materials](./img/siblings.png)
+![Parent & Sibling Materials](./img/siblings.jpg)
 
 ### Status
 
