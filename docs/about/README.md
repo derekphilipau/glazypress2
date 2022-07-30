@@ -26,6 +26,6 @@ Ideas for improving Glazy?  Encounter a bug?  Questions about glazes in general?
 
 Glazy is a work in progress. If you notice a bug or have an idea to improve Glazy, please contact us at **derek [at] glazy [dot] org**.
 
-## Privacy & Terms of Use
+## Privacy, Terms of Use & Community Guidelines
 
-Before using Glazy, please review and agree to the [Privacy Policy](/about/privacy.html) and [Terms of Service](/about/terms-of-service.html).
+Before using Glazy, please review and agree to the [Privacy Policy](/about/privacy.html), [Terms of Service](/about/terms-of-service.html), and [Community Guidelines](/about/community-guidelines.html)

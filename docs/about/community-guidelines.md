@@ -1,6 +1,6 @@
-# Glazy Community Guidelines
+# Community Guidelines
 
-These Community Guidelines are here to help you understand what it means to be a member of Glazy. Don’t forget that your use of Glazy is subject to these Community Guidelines and our [Terms of Service](./terms-of-service).
+These Community Guidelines are here to help you understand what it means to be a member of Glazy. Don’t forget that your use of Glazy is subject to these Community Guidelines and our [Terms of Service](/about/terms-of-service.html).
 
 ## Things to do
 
@@ -60,4 +60,4 @@ If a Glazy member uploads content in violation of the Community Guidelines or Te
 
 If you don’t feel that you can abide by our Community Guidelines as outlined above, maybe Glazy isn’t for you. We’ve crafted these guidelines to ensure that everyone within the Glazy community has a good time.
 
-You may also want to check out our [Terms of Service](./terms-of-service) and [Privacy Policy](./privacy). If you ever have any questions or comments, we’d love to hear from you. Please feel free to drop us a line via our webform.
+You may also want to check out our [Terms of Service](/about/terms-of-service.html) and [Privacy Policy](/about/privacy.html). If you ever have any questions or comments, I’d love to hear from you. Please feel free to send me an email: **derek [at] glazy [dot] org**
