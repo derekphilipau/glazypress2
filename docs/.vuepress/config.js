@@ -54,6 +54,7 @@ module.exports = {
           '/about/changelog.md',
           '/about/health-warning.md',
           '/about/health-carty.md',
+          '/about/community-guidelines.md',
           '/about/privacy.md',
           '/about/terms-of-service.md'
         ]
