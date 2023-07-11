@@ -1,5 +1,4 @@
 import { defaultTheme } from "vuepress";
-import { searchPlugin } from "@vuepress/plugin-search";
 
 export default {
   base: "/",

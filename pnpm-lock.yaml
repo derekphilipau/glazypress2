@@ -8,11 +8,11 @@ devDependencies:
   '@vuepress/client':
     specifier: 2.0.0-beta.64
     version: 2.0.0-beta.64
-  '@vuepress/plugin-search':
-    specifier: 2.0.0-beta.64
-    version: 2.0.0-beta.64
+  vue:
+    specifier: ^3.3.4
+    version: 3.3.4
   vuepress:
-    specifier: ^2.0.0-beta.64
+    specifier: 2.0.0-beta.64
     version: 2.0.0-beta.64(@vuepress/client@2.0.0-beta.64)(vue@3.3.4)
 
 packages:
@@ -685,21 +685,6 @@ packages:
     dependencies:
       '@vuepress/core': 2.0.0-beta.64
       prismjs: 1.29.0
-    transitivePeerDependencies:
-      - '@vue/composition-api'
-      - supports-color
-    dev: true
-
-  /@vuepress/plugin-search@2.0.0-beta.64:
-    resolution: {integrity: sha512-Ukxr3rnc8+PJp2jj2JWD9RSv3SCHLeEvbQJRSxf8bNp0eFZ22LxCXqFGJZ02rhnAqj/hMfKaNrEQICsn86xw2Q==}
-    dependencies:
-      '@vuepress/client': 2.0.0-beta.64
-      '@vuepress/core': 2.0.0-beta.64
-      '@vuepress/shared': 2.0.0-beta.64
-      '@vuepress/utils': 2.0.0-beta.64
-      chokidar: 3.5.3
-      vue: 3.3.4
-      vue-router: 4.2.4(vue@3.3.4)
     transitivePeerDependencies:
       - '@vue/composition-api'
       - supports-color
