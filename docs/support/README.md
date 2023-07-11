@@ -18,12 +18,13 @@ The best way to support Glazy is to use it! Uploading images of glazes, verifyin
 
 If you are currently a student or teacher in Ceramics or a related Visual Arts department, simply register with a .edu email address and you will automatically be given 12 months of Patron status for free. If your school doesn't use the .edu domain, just send a photo of your Student ID or other proof of enrollment to **derek [at] glazy [dot] org**.
 
-### Recommended Method: Patreon
+### Become a Patron Now!
 
 [Click this link to become a Glazy Patreon patron.](https://www.patreon.com/bePatron?u%253D5941215)
 
 [![Become a Patreon Sponsor](./img/patreon-logo.png)](https://www.patreon.com/bePatron?u=5941215)
 
+<!--
 ### PayPal
 
 **To avoid the hassle of monthly contributions, just make a one-time donation.** Users will receive the Patron badge & special features at the rate of $2 per month.
@@ -39,10 +40,11 @@ _NOTE: Please allow 24 hours for your Glazy Patron status to be updated._
 [To make a one-time or recurring donation to Glazy using Paypal, click here or on the _"Donate"_ button below.](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url)
 
 [![Donate to Glazy via Paypal!](./img/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url)
+-->
 
 ## Glazy Patron Special Features
 
-Those who pledge $2 per month via _either_ Patreon or PayPal receive a special "flame" badge that appears next to their username in Glazy. Whether you donate $100 or $2 a month, every patron gets the same badge. This badge unlocks some special Glazy features.
+Those who pledge $2 per month receive a special "flame" badge that appears next to their username in Glazy. Whether you donate $100 or $2 a month, every patron gets the same badge. This badge unlocks some special Glazy features.
 
 ### Target & Solve
 
