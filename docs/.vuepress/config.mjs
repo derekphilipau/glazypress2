@@ -1,4 +1,5 @@
 import { defaultTheme } from "vuepress";
+import { searchPlugin } from "@vuepress/plugin-search";
 
 export default {
   base: "/",
@@ -33,6 +34,11 @@ export default {
       },
     ],
     ["meta", { name: "msapplication-TileColor", content: "#000000" }],
+  ],
+  plugins: [
+    searchPlugin({
+      // options
+    }),
   ],
   serviceWorker: true,
   theme: defaultTheme({
