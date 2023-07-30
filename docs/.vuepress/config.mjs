@@ -96,8 +96,9 @@ export default {
       */
       {
         text: "Concepts",
-        link: "/concepts/analysis/",
+        link: "/concepts/types/",
         children: [
+          "/concepts/types/",
           "/concepts/analysis/",
           "/concepts/analysis/percent.md",
           "/concepts/analysis/formula.md",
