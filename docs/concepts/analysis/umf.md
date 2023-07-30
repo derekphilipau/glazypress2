@@ -1,15 +1,62 @@
 # Unity Molecular Formula (UMF)
 
-The Unity Molecular Formula, or *UMF* or *Seger Formula*, is a very useful way to compare glaze recipes because the analysis is based on the number of molecules rather than weight, and it is  *unified* based on the *fluxes*.  Therefore we can compare the amounts of stabilizers, glass-formers, and other oxides in terms of the fluxes.  Its easy to compare different UMF analyses, as they are all unified in the same way.
+The Unity Molecular Formula, also known as *UMF* or *Seger Formula*, is a method used in ceramics that represents glaze components in terms of the number of molecules, normalizing the total flux oxides to unity (1.0). This normalization process allows for easy comparison of different glaze recipes, as it reveals the ratio between fluxes as well as the relationship between combined fluxes and other glaze components. Oxides are grouped into categories such as RO/R2O (flux), R2O3 (stabilizers), and RO2 (glassformers). By unifying the fluxes, we can compare the amounts of stabilizers, glass-formers, and other oxides, allowing for a more informed understanding of the glaze's chemistry.
+
+::: tip Unity
+"Unifying" refers to the process of adjusting the quantities of specific components in a formula so that they total to a standard value, typically one (i.e., "Unity"). This standardization allows for easier understanding and comparison of relationships within various chemical compositions, such as glazes in ceramics, by presenting them on a common scale.
+:::
+
+UMF is a useful tool for comparing one glaze with another, evaluating glaze recipes, calculating material substitutions, and revising melting points. Although there are some criticisms regarding its precision and limitations with certain oxides like boron, as well as debate over how oxides should be grouped, the Unity Molecular Formula continues to be a useful tool for offering an abstract yet informative view of glaze chemistry based on the relative numbers of each molecular component.
+
 
 Put in another way by Linda Arbuckle: 
 >Silica is a glass former. Alumina modifies a glass. Fluxes reduce melting temperature. The Unity Molecular Formula (UMF) systematically relates these chemistries to each other in a useful glaze chemistry shorthand UMF shows the ratio of glass formers to fluxes and can be used to predict glaze behavior.
 
-The fluxes are split into two different types: R<sub>2</sub>O (or Alkaline Metals) and RO (Alkaline Earths).
+## Flux Groups: Alkali Metals & Alkaline Earth Metals
 
-There are two versions of the UMF on Glazy.  The first is *traditional UMF*, which is the way most people (and glaze calculation software) have usually calculated UMF.
+In ceramic chemistry, the fluxes are substances that lower the melting point of a glaze, allowing it to mature and form a glassy surface at a specific firing temperature. These fluxes are generally categorized into two groups: alkali metals (R<sub>2</sub>O) and alkaline earths (RO).
 
-The second version is *Extended UMF*.  
+**Alkali Metals (R<sub>2</sub>O)** are typically the oxides of Group 1 elements in the periodic table, such as sodium (Na<sub>2</sub>O), potassium (K<sub>2</sub>O), and lithium (Li<sub>2</sub>O).  Feldspars as well as carbonates (like Lithium carbonate) are often used to source these oxides.  Alkalis are highly reactive and powerful fluxing agents that tend to melt and flow more readily. They can also modify the color or surface qualities of the glaze.
+
+**Alkaline Earth Metals (RO)** typically consist of oxides from Group 2 elements like calcium (CaO), magnesium (MgO), and barium (BaO). These fluxes are generally less powerful or reactive than the alkali metals, and they're often referred to as "secondary" fluxes. They contribute to the hardness and durability of the glaze but usually melt at somewhat higher temperatures. They can also impact the color and texture of the glaze but in a more controlled and stable way.
+
+The balance between these two groups of fluxes in a glaze recipe can significantly impact the characteristics of the finished product. The choice and proportion of alkalis and alkaline earth fluxes allow us to control the glaze's melting behavior, stability, appearance, and other properties. By understanding these two categories and how they interact, we can design glazes that achieve specific effects, textures, and colors, suitable for different ceramic applications.
+
+## UMF Example
+
+Imagine we have the following two recipes:
+* Recipe 1:  Potash Feldspar 40, Silica 30, Whiting 20, Kaolin 10
+* Recipe 2:  Soda Feldspar 36.4, Wollastonite 23.2, Silica 18, Grolleg Kaolin 11.6
+
+These recipe's percent analyses might look quite different:
+
+| | SiO2 | Al2O3	| Na2O | K2O	| CaO	| LOI
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+Recipe 1 | 60.6% | 11.3% | - | 6.8% | 11.2% | 10.0%
+Recipe 2 | 67.9% | 12.7% | 4.8% | 0.2% | 12.6% | 1.6%
+
+But in UMF, we can see that these recipes are almost exactly the same, and they should be similar when fired:
+
+Recipe 1 UMF
+
+| R2O/RO (Fluxes) | R2O3 (Stabilizers)	| RO2 (Glass-formers)
+| ---- | ---- | ----
+| 0.26 K2O | 0.41 Al2O3 | 3.71 SiO2 
+| 0.74 CaO | |
+
+Recipe 2 UMF
+
+| R2O/RO (Fluxes) | R2O3 (Stabilizers)	| RO2 (Glass-formers)
+| ---- | ---- | ----
+| 0.26 Na2O | 0.41 Al2O3 | 3.71 SiO2 
+| 0.74 CaO | |
+
+Note that in the above UMF analyses, the sum of the fluxes always adds up to 1.
+
+
+## "Traditional" and "Extended" UMF in Glazy
+
+There are two versions of the UMF on Glazy.  The first is *traditional UMF*, which is the way most people (and glaze calculation software) have historically calculated UMF.  The second version is *Extended UMF*, which includes additional oxides into the unity flux calculation.
 
 ### Traditional UMF Oxide Groups
 
@@ -35,9 +82,7 @@ Rose Katz’s 2019 NCECA Lecture “COLORFORMS” discusses the roles of all maj
 
 Glazy's  "Extended" UMF comes directly from Matthew & Rose Katz's Experimental UMF Calculator.  [This spreadsheet calculator can be downloaded here.](https://www.ceramicmaterialsworkshop.com/umf-calculator.html) 
 
-![Screenshot of Calculator](./img/katz-calculator.jpg)
-
-This Experimental Calculator is still a work in progress.  Glazy will be updated as new information comes to light.
+***Note that Extended UMF was added to Glazy a couple years ago, and the CMW spreadsheet may have changed since then.***
 
 ### Extended UMF Oxide Groups
 
