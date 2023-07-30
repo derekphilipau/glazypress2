@@ -380,19 +380,63 @@ Glazes that use modern glaze materials to emulate the chemistry of ashes.
 
 Traditional opaque tin glaze, often used as a ground for overglaze decoration.
 
+[Wikipedia: Majolica](https://en.wikipedia.org/wiki/Majolica)
+[Wikipedia: Maiolica](https://en.wikipedia.org/wiki/Maiolica)
+
+<img src="./img/types/majolica.jpg" alt="majolica dish" width="300">
+
+Polychrome majolica dish with paintings of a fish, flowers, and fruit. Lodi, Italy, 1751. [Wikipedia: Maiolica](https://en.wikipedia.org/wiki/Maiolica)
+
+<img src="./img/types/majolica-2.jpg" alt="majolica dish" width="300">
+
+[San Diego State U Majolica (modified)](https://glazy.org/recipes/153552) via David Sackett.
+
+
+### [Bristol](https://glazy.org/search?base_type=460&type=1110)
+
+A glaze that relies on the fluxing action of Zinc Oxide for fully melting, even at lower temperatures without the need for boron.
+
+<img src="./img/types/bristol.jpg" alt="Bristol Glaze" width="300">
+
+[Bristol glaze base](https://glazy.org/recipes/69994) via Eric P.
+
+
 ### [Specialty](https://glazy.org/search?base_type=460&type=1130)
 
 #### [Crackle](https://glazy.org/search?base_type=460&type=1140)
+
+<img src="./img/types/specialty-crackle.jpg" alt="Crackle Glaze" width="300">
+
+[Snowflake Crackle #8](https://glazy.org/recipes/7052) via Clara Giorello
 
 #### [Crawling](https://glazy.org/search?base_type=460&type=1150)
 
 Glazes that pull away from the clay body during firing, creating a crawling effect.
 
+<img src="./img/types/specialty-crawling.jpg" alt="Crawling Glaze" width="300">
+
+[Brain Coral Crawl / Lichen Crawl](https://glazy.org/recipes/27803) via Jake Glaze
+
+#### [Gloop](https://glazy.org/search?base_type=460&type=1155)
+
+A glaze that sits between glaze and clay, with drips.
+
+<img src="./img/types/specialty-gloop.jpg" alt="Gloop Glaze" width="300">
+
+[Gloop Biaxial with B2O3 0.3](https://glazy.org/recipes/59365)
+
 #### [Crater](https://glazy.org/search?base_type=460&type=1160)
 
 Glazes that form craters or pits on the surface.
+
+<img src="./img/types/specialty-crater.jpg" alt="Crater Glaze" width="300">
+
+[Akiko's crater glaze](https://glazy.org/recipes/4454) via kenneth ibbett
 
 #### [Metallic](https://glazy.org/search?base_type=460&type=1170)
 
 Glazes with metallic sheen, often through the use of high amounts of colorants/additives like manganese.
 
+<img src="./img/types/specialty-metallic.jpg" alt="Metallic Glaze" width="300">
+
+[Gold](https://glazy.org/recipes/198013) via Kim Ulrick
