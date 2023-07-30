@@ -11,7 +11,7 @@ For glazes, Glazy adopts the format of John Britt's
 <a href="http://johnbrittpottery.com/shop/the-complete-guide-to-high-fire-glazes-glazing-firing-at-cone-10/">The Complete Guide to High-Fire Glazes, Glazing & Firing at Cone 10</a>
 The categories in this book are based on a combination of glaze color, coloring oxide, surface and firing type.
 
-## Top-level categories:
+## Top-level Types
 
 * [Glazes](https://glazy.org/search?base_type=460)
 * [Clay Bodies](https://glazy.org/search?base_type=110)
@@ -20,7 +20,7 @@ The categories in this book are based on a combination of glaze color, coloring 
 * [Underglazes](https://glazy.org/search?base_type=450)
 * [Refractory](https://glazy.org/search?base_type=1180)
 
-## Clay Body categories:
+## Clay Body Types
 
 * [Earthenware](https://glazy.org/search?base_type=110&type=120): Low-fired clay body, often porous, may need glaze to be functional.
   * [Throwing](https://glazy.org/search?base_type=110&type=130): A type of clay optimized for wheel throwing.
@@ -51,12 +51,12 @@ The categories in this book are based on a combination of glaze color, coloring 
   * [Salt](https://glazy.org/search?base_type=110&type=380)
   * [Raku](https://glazy.org/search?base_type=110&type=390)
 
-## Slips & Engobe categories:
+## Slips & Engobe Types
 * [Slip](https://glazy.org/search?base_type=400&type=410): Liquid clay used for decoration or bonding clay pieces together.
 * [Engobe](https://glazy.org/search?base_type=400&type=420): A slip that is layered on ware, usually colored & vitreous after firing. Similar to a mix of glaze and slip.
 * [Terra Sigillata](https://glazy.org/search?base_type=400&type=430): A refined slip made of very fine particles used to create a soft, satin surface finish.
 
-## Glaze Sub-categories
+## Glaze Sub-Types
 
 ### [Clear](https://glazy.org/search?base_type=460&type=470)
 
@@ -180,103 +180,219 @@ Various shades of teadust glazes on Chinese antiques.
 
 Traditional Chinese glaze with streaked effect, resembling a hare's fur.
 
+<img src="./img/types/iron-hares-fur.jpg" alt="Hares fur Glaze" width="300">
+
+View of the "hare's fur" glazing effect on a Jian bowl [Wikipedia: Jian ware](https://en.wikipedia.org/wiki/Jian_ware)
+
 ##### [Kaki, Tomato Red](https://glazy.org/search?base_type=460&type=570)
 
-Iron-saturate glazes with large amounts of iron that develop a red, crystalline surface.
+Iron-saturate glazes with large amounts of iron (often over 10%) that develop a red, crystalline surface.
+
+<img src="./img/types/iron-kaki.jpg" alt="Iron Kaki Tomato Red Glaze" width="300">
+
+[Kaki Biaxial D4](https://glazy.org/recipes/25001)
 
 ##### [Oil Spot](https://glazy.org/search?base_type=460&type=580)
 
 Traditional Chinese iron glaze with dark background and lighter "spots" that resemble oil spots.
 
+<img src="./img/types/iron-oil-spot-jian.jpg" alt="Jian ware Oil-spot Glaze" width="300">
+
+[Wikipedia: Jian ware](https://en.wikipedia.org/wiki/Jian_ware)
+
+<img src="./img/types/iron-oil-spot.jpg" alt="Oil-spot Glaze" width="300">
+
+[John's Oil Spot #3](https://glazy.org/recipes/541), by John Britt
+
 ##### [Slip-Based](https://glazy.org/search?base_type=460&type=585)
 
 Glazes formulated with high iron content clays like Albany, Alberta, and Redart.
+
+<img src="./img/types/iron-slip-based.jpg" alt="Slip-based Iron Glaze" width="300">
+
+[Andies Handful of Earth](https://glazy.org/recipes/5211), image by Hette Hillsdon.
 
 ### [Shino](https://glazy.org/search?base_type=460&type=590)
 
 Traditional Japanese high-feldspar/high-alkali, opaque, fatty glaze.
 
- ##### [Traditional](https://glazy.org/search?base_type=460&type=600): Glazes formulated with historical or classic techniques and materials.
- ##### [Carbon Trap](https://glazy.org/search?base_type=460&type=610): A Shino that traps carbon during firing, creating various surface effects & colors.
- ##### [High-Alumina](https://glazy.org/search?base_type=460&type=620): High-alumina Shinos.
- ##### [White](https://glazy.org/search?base_type=460&type=630):  White Shinos.
-* [Red](https://glazy.org/search?base_type=460&type=635): Red-colored glazes developed via a number of mechanisms.
- ##### [Copper](https://glazy.org/search?base_type=460&type=640):  Glazes that obtain their red color through the effect of copper.
-    * [Oxblood](https://glazy.org/search?base_type=460&type=650): Sub-type of traditional Chinese copper-red glaze.
-    * [Flambe](https://glazy.org/search?base_type=460&type=660): Sub-type of traditional Chinese copper-red glaze.
-    * [Peach Bloom](https://glazy.org/search?base_type=460&type=670): Sub-type of traditional Chinese copper-red glaze.
-  * [Pink](https://glazy.org/search?base_type=460&type=673): Various shades of pink glazes.
-  * [Stain](https://glazy.org/search?base_type=460&type=675): Glazes using commercial ceramic stains for red color.
-* [Green](https://glazy.org/search?base_type=460&type=680): Green glazes developed via a number of mechanisms.
-  * [Copper](https://glazy.org/search?base_type=460&type=690)
-  * [Oribe](https://glazy.org/search?base_type=460&type=700)
-  * [Chrome](https://glazy.org/search?base_type=460&type=710)
-  * [Titanium](https://glazy.org/search?base_type=460&type=720)
-  * [Nickel](https://glazy.org/search?base_type=460&type=730)
-  * [Stain](https://glazy.org/search?base_type=460&type=740)
-* [Turquoise](https://glazy.org/search?base_type=460&type=745)
-* [Blue](https://glazy.org/search?base_type=460&type=750)
-  * [Cobalt](https://glazy.org/search?base_type=460&type=760)
-  * [Rutile](https://glazy.org/search?base_type=460&type=770)
-  * [Barium](https://glazy.org/search?base_type=460&type=780)
-  * [Strontium](https://glazy.org/search?base_type=460&type=790)
-  * [Nickel](https://glazy.org/search?base_type=460&type=800)
-  * [Stain](https://glazy.org/search?base_type=460&type=810)
-* [Purple](https://glazy.org/search?base_type=460&type=820)
-  * [Magnesium](https://glazy.org/search?base_type=460&type=830)
-  * [Nickel](https://glazy.org/search?base_type=460&type=840)
-  * [Manganese](https://glazy.org/search?base_type=460&type=850)
-* [Matte](https://glazy.org/search?base_type=460&type=860)
-  * [Magnesium Matte](https://glazy.org/search?base_type=460&type=870)
-* [Black](https://glazy.org/search?base_type=460&type=880)
-  * [Slip-Based](https://glazy.org/search?base_type=460&type=890)
-  * [Glossy](https://glazy.org/search?base_type=460&type=900)
-  * [Satin](https://glazy.org/search?base_type=460&type=910)
-* [Yellow](https://glazy.org/search?base_type=460&type=920)
-  * [Iron](https://glazy.org/search?base_type=460&type=930)
-  * [Barium](https://glazy.org/search?base_type=460&type=940)
-  * [Manganese](https://glazy.org/search?base_type=460&type=950)
-  * [Stain](https://glazy.org/search?base_type=460&type=960)
-  * [Nickel](https://glazy.org/search?base_type=460&type=970)
-* [Crystalline](https://glazy.org/search?base_type=460&type=980): Glazes that develop visible crystals during cooling.
-  * [Micro](https://glazy.org/search?base_type=460&type=990)
-  * [Aventurine](https://glazy.org/search?base_type=460&type=1000)
-  * [Manganese](https://glazy.org/search?base_type=460&type=1010)
-  * [Macro](https://glazy.org/search?base_type=460&type=1020)
-* [Single-Fire](https://glazy.org/search?base_type=460&type=1030): Glazes applied to greenware, fired in a single step.
-* [Wood](https://glazy.org/search?base_type=460&type=1040): Glazes specifically developed for wood firing, often displaying atmospheric surface effects.
-* [Salt & Soda](https://glazy.org/search?base_type=460&type=1050)
-* [Raku](https://glazy.org/search?base_type=460&type=1055): Special glazes used in the low-temperature Raku firing process.
-* [Ash](https://glazy.org/search?base_type=460&type=1060): Glazes containing or imitating wood ash, often with earthy qualities, often traditional.
-  * [Nuka](https://glazy.org/search?base_type=460&type=1070): Traditional Japanese rice-husk ash glaze.
-  * [Synthetic/Fake](https://glazy.org/search?base_type=460&type=1080): Glazes that use modern glaze materials to emulate the chemistry of ashes.
-  * [Slip-Based](https://glazy.org/search?base_type=460&type=1090)
-* [Majolica](https://glazy.org/search?base_type=460&type=1100): Traditional opaque tin glaze, often used as a ground for overglaze decoration.
-* [Specialty](https://glazy.org/search?base_type=460&type=1130)
-  * [Crackle](https://glazy.org/search?base_type=460&type=1140)
-  * [Crawling](https://glazy.org/search?base_type=460&type=1150): Glazes that pull away from the clay body during firing, creating a crawling effect.
-  * [Crater](https://glazy.org/search?base_type=460&type=1160): Glazes that form craters or pits on the surface.
-  * [Metallic](https://glazy.org/search?base_type=460&type=1170): Glazes with metallic sheen, often through the use of high amounts of colorants/additives like manganese.
+<img src="./img/types/shino.jpg" alt="Shino Glaze" width="300">
 
+Shino ware tea bowl furisode, Azuchi-Momoyama to Edo period, 16th-17th century [Wikipedia: Shino ware](https://en.wikipedia.org/wiki/Shino_ware)
 
+##### [Traditional](https://glazy.org/search?base_type=460&type=600)
 
-## Temperature & Cones
+Glazes formulated with historical or classic techniques and materials.
 
-<a href="/concepts/temperature/">Temperature Equivalent Charts for Orton Cones</a>
+##### [Carbon Trap](https://glazy.org/search?base_type=460&type=610)
 
-Glazes are categorized by their Orton Cone firing temperature.
+A Shino that traps carbon during firing, creating various surface effects & colors.
 
-This is the ideal temperature at which the glaze recipe will mature.
+<img src="./img/types/shino-carbon-trap.jpg" alt="High-alumina Shino Glaze" width="300">
 
-In Glazy, Orton Cone is denoted by the △ character, e.g. △10.
+[Gustin Shino](https://glazy.org/recipes/2971) via John Britt.
 
-Glazes may be recommended for a single Orton Cone or a range of cones,
-for instance many high-fire glazes are listed as △9 - △10.
+##### [High-Alumina](https://glazy.org/search?base_type=460&type=620)
 
-The terms "high-fire", "mid-fire" and "low-fire" are helpful categories that ceramicists use
-to denote a firing temperature range.  The definition of these categories may vary.
+High-alumina Shinos.
 
-In Glazy, the firing ranges are:
-* **Low-fire: △022 - △3**
-* **Mid-fire: △4 - △8**
-* **High-fire: △9 - △14**
+<img src="./img/types/shino-high-alumina.jpg" alt="High-alumina Shino Glaze" width="300">
+
+[Mino Shino](https://glazy.org/recipes/2991) via John Britt
+
+##### [White](https://glazy.org/search?base_type=460&type=630)
+
+White Shinos.
+
+### [Red](https://glazy.org/search?base_type=460&type=635)
+
+Red-colored glazes developed via a number of mechanisms.
+
+#### [Copper](https://glazy.org/search?base_type=460&type=640)
+
+Glazes that obtain their red color through the effect of copper.
+
+##### [Oxblood](https://glazy.org/search?base_type=460&type=650)
+
+Sub-type of traditional Chinese copper-red glaze.
+
+##### [Flambe](https://glazy.org/search?base_type=460&type=660)
+
+Sub-type of traditional Chinese copper-red glaze.
+
+##### [Peach Bloom](https://glazy.org/search?base_type=460&type=670)
+
+Sub-type of traditional Chinese copper-red glaze.
+
+### [Pink](https://glazy.org/search?base_type=460&type=673)
+
+Various shades of pink glazes.
+
+#### [Stain](https://glazy.org/search?base_type=460&type=675)
+
+Glazes using commercial ceramic stains for red color.
+
+### [Green](https://glazy.org/search?base_type=460&type=680)
+
+Green glazes developed via a number of mechanisms.
+
+#### [Copper](https://glazy.org/search?base_type=460&type=690)
+
+#### [Oribe](https://glazy.org/search?base_type=460&type=700)
+
+#### [Chrome](https://glazy.org/search?base_type=460&type=710)
+
+#### [Titanium](https://glazy.org/search?base_type=460&type=720)
+
+#### [Nickel](https://glazy.org/search?base_type=460&type=730)
+
+#### [Stain](https://glazy.org/search?base_type=460&type=740)
+
+### [Turquoise](https://glazy.org/search?base_type=460&type=745)
+
+### [Blue](https://glazy.org/search?base_type=460&type=750)
+
+#### [Cobalt](https://glazy.org/search?base_type=460&type=760)
+
+#### [Rutile](https://glazy.org/search?base_type=460&type=770)
+
+#### [Barium](https://glazy.org/search?base_type=460&type=780)
+
+#### [Strontium](https://glazy.org/search?base_type=460&type=790)
+
+#### [Nickel](https://glazy.org/search?base_type=460&type=800)
+
+#### [Stain](https://glazy.org/search?base_type=460&type=810)
+
+### [Purple](https://glazy.org/search?base_type=460&type=820)
+
+#### [Magnesium](https://glazy.org/search?base_type=460&type=830)
+
+#### [Nickel](https://glazy.org/search?base_type=460&type=840)
+
+#### [Manganese](https://glazy.org/search?base_type=460&type=850)
+
+### [Matte](https://glazy.org/search?base_type=460&type=860)
+
+#### [Magnesium Matte](https://glazy.org/search?base_type=460&type=870)
+
+### [Black](https://glazy.org/search?base_type=460&type=880)
+
+#### [Slip-Based](https://glazy.org/search?base_type=460&type=890)
+
+#### [Glossy](https://glazy.org/search?base_type=460&type=900)
+
+#### [Satin](https://glazy.org/search?base_type=460&type=910)
+
+### [Yellow](https://glazy.org/search?base_type=460&type=920)
+
+#### [Iron](https://glazy.org/search?base_type=460&type=930)
+
+#### [Barium](https://glazy.org/search?base_type=460&type=940)
+
+#### [Manganese](https://glazy.org/search?base_type=460&type=950)
+
+#### [Stain](https://glazy.org/search?base_type=460&type=960)
+
+#### [Nickel](https://glazy.org/search?base_type=460&type=970)
+
+### [Crystalline](https://glazy.org/search?base_type=460&type=980)
+
+Glazes that develop visible crystals during cooling.
+
+#### [Micro](https://glazy.org/search?base_type=460&type=990)
+
+#### [Aventurine](https://glazy.org/search?base_type=460&type=1000)
+
+#### [Manganese](https://glazy.org/search?base_type=460&type=1010)
+
+#### [Macro](https://glazy.org/search?base_type=460&type=1020)
+
+### [Single-Fire](https://glazy.org/search?base_type=460&type=1030)
+
+Glazes applied to greenware, fired in a single step.
+
+### [Wood](https://glazy.org/search?base_type=460&type=1040)
+
+Glazes specifically developed for wood firing, often displaying atmospheric surface effects.
+
+### [Salt & Soda](https://glazy.org/search?base_type=460&type=1050)
+
+### [Raku](https://glazy.org/search?base_type=460&type=1055)
+
+Special glazes used in the low-temperature Raku firing process.
+
+### [Ash](https://glazy.org/search?base_type=460&type=1060)
+
+Glazes containing or imitating wood ash, often with earthy qualities, often traditional.
+
+#### [Nuka](https://glazy.org/search?base_type=460&type=1070)
+
+Traditional Japanese rice-husk ash glaze.
+
+#### [Synthetic/Fake](https://glazy.org/search?base_type=460&type=1080)
+
+Glazes that use modern glaze materials to emulate the chemistry of ashes.
+
+#### [Slip-Based](https://glazy.org/search?base_type=460&type=1090)
+
+### [Majolica](https://glazy.org/search?base_type=460&type=1100)
+
+Traditional opaque tin glaze, often used as a ground for overglaze decoration.
+
+### [Specialty](https://glazy.org/search?base_type=460&type=1130)
+
+#### [Crackle](https://glazy.org/search?base_type=460&type=1140)
+
+#### [Crawling](https://glazy.org/search?base_type=460&type=1150)
+
+Glazes that pull away from the clay body during firing, creating a crawling effect.
+
+#### [Crater](https://glazy.org/search?base_type=460&type=1160)
+
+Glazes that form craters or pits on the surface.
+
+#### [Metallic](https://glazy.org/search?base_type=460&type=1170)
+
+Glazes with metallic sheen, often through the use of high amounts of colorants/additives like manganese.
+
