@@ -340,15 +340,57 @@ Titania often acts as a color modifier, turning celadons with iron green, workin
 
 #### [Cobalt](https://glazy.org/search?base_type=460&type=760)
 
+Cobalt can be added in small increments of 0.1% to 1% to obtain blue glazes.
+
+<img src="./img/types/blue-cobalt-lineblend.jpg" alt="Cobalt Line Blend">
+
+*Line blend adding Cobalt Oxide* 
+
+<img src="./img/types/blue-cobalt-fluxes.jpg" alt="Cobalt and fluxes">
+
+*Showing the effects of different fluxes on glazes with cobalt.*
+
 #### [Rutile](https://glazy.org/search?base_type=460&type=770)
+
+Either alone or in combination with cobalt, rutile can produce the "floating blue" effect.
+
+<img src="./img/types/blue-rutile-2.jpg" alt="Rutile blues" width="300">
+
+*[Bleu de rutile](https://glazy.org/recipes/68393) via Jean-Pierre Prieto showing rutile producing a floating blue.*
+
+<img src="./img/types/blue-rutile.jpg" alt="Rutile blues" width="300">
+
+*[Floating Blue](https://glazy.org/recipes/10684) via Joe Thompson combining rutile with cobalt.*
 
 #### [Barium](https://glazy.org/search?base_type=460&type=780)
 
+In combination with cobalt, barium can produce vivid, intense blues.
+
+<img src="./img/types/blue-barium.jpg" alt="Barium Blue" width="300">
+
+*[Intense Blue](https://glazy.org/recipes/28378) via erik ragni*
+
 #### [Strontium](https://glazy.org/search?base_type=460&type=790)
+
+<img src="./img/types/blue-strontium.jpg" alt="Stontium Blue" width="300">
+
+*[Strontium Blue](https://glazy.org/recipes/43015) via chance taylor*
 
 #### [Nickel](https://glazy.org/search?base_type=460&type=800)
 
+<img src="./img/types/blue-nickel.jpg" alt="Nickel Blue" width="300">
+
+*[Lively Lavender](https://glazy.org/recipes/39794) via Alexander Kuttel using nickel with cobalt*
+
+<img src="./img/types/blue-nickel-2.jpg" alt="Nickel Blue" width="300">
+
+*[Nickel blue strontium matte](https://glazy.org/recipes/57568) via Jeannine Vrins using only nickel*
+
 #### [Stain](https://glazy.org/search?base_type=460&type=810)
+
+Various blue stains can be added to a base glaze to produce blue.
+
+<img src="./img/types/blue-stain.jpg" alt="Blue Stain" width="300">
 
 ### [Purple](https://glazy.org/search?base_type=460&type=820)
 
