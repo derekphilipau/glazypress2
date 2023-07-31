@@ -1,3 +1,17 @@
+CoTE – coefficient of thermal expansion
+
+(http://en.wikipedia.org/wiki/Coefficient_of_expansion)
+
+SG – specific gravity
+
+(http://en.wikipedia.org/wiki/Specific_gravity)
+
+MSH – Mohs scale of hardness
+
+(http://en.wikipedia.org/wiki/Mohs_scale_of_mineral_hardness)
+
+
+
 EARTHENWARE: Lowfired ware, usually still porous after firing – must be sealed with vitreous glaze to be functional.
 EARTHENWARE CLAY: Natural lowfire secondary clay - fluxed with iron, fires porous. Often called "common" clay, found almost everywhere, matures below 2000°F.
 PORCELAIN: Midrange/highfire vitreous claybodies containing kaolin, silica, and fluxes, plus often ball clay and/or bentonite for greater plasticity. Usually white or “eggshell” in color, sometimes translucent where thin.
