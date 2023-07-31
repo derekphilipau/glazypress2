@@ -96,11 +96,11 @@ Especially high-purity celadons with low titania and iron that have a blue tint.
 
 <img src="./img/types/iron-celadon-blue.jpg" alt="Blue Celadon Glaze" width="300">
 
-Typical blue celadon glaze.
+*Typical blue celadon glaze.*
 
 <img src="./img/types/iron-celadon-blue-ru.jpg" alt="Ancient Ru-type Chinese celadon." width="300">
 
-Ancient Ru-type Chinese celadon.
+*Ancient Ru-type Chinese celadon.*
 
 ##### [Green](https://glazy.org/search?base_type=460&type=520)
 
@@ -108,11 +108,11 @@ Green celadons typically include more iron oxide (about 1-2%) than blue celadons
 
 <img src="./img/types/iron-celadon-green.jpg" alt="Green Celadon Glaze" width="300">
 
-[Typical green celadon glaze.](https://glazy.org/recipes/6352)
+*[Typical green celadon glaze.](https://glazy.org/recipes/6352)*
 
 <img src="./img/types/iron-celadon-green-yaozhou.jpg" alt="Green Celadon Glaze" width="300">
 
-Ancient Chinese Yaozhou kiln celadon.
+*Ancient Chinese Yaozhou kiln celadon.*
 
 ##### [Yellow](https://glazy.org/search?base_type=460&type=530)
 
@@ -120,11 +120,11 @@ Yellow-tinted celadons produced by particular glaze chemistries or firing in oxi
 
 <img src="./img/types/iron-celadon-yellow.jpg" alt="Yellow Celadon Glaze" width="300">
 
-[David Leach Yellow Celadon](https://glazy.org/recipes/3453)
+*[David Leach Yellow Celadon](https://glazy.org/recipes/3453)*
 
 <img src="./img/types/iron-celadon-yellow-2.jpg" alt="Yellow Celadon Glaze" width="300">
 
-[Oxidation yellow celadon](https://glazy.org/recipes/95303)
+*[Oxidation yellow celadon](https://glazy.org/recipes/95303)*
 
 ##### [Chun/Jun](https://glazy.org/search?base_type=460&type=533)
 
@@ -132,11 +132,11 @@ A type of traditonal Chinese high-fire blue glaze, often with opalescent quality
 
 <img src="./img/types/iron-celadon-jun-2.jpg" alt="Jun/Chun Celadon Glaze" width="300">
 
-[Wikipedia: Jun ware](https://en.wikipedia.org/wiki/Jun_ware)
+*[Wikipedia: Jun ware](https://en.wikipedia.org/wiki/Jun_ware)*
 
 <img src="./img/types/iron-celadon-jun.jpg" alt="Jun/Chun Celadon Glaze" width="300">
 
-[Nigel Wood Jun](https://glazy.org/recipes/2927)
+*[Nigel Wood Jun](https://glazy.org/recipes/2927)*
 
 ##### [Amber](https://glazy.org/search?base_type=460&type=535)
 
@@ -150,7 +150,7 @@ Dark brown to black glaze, often with a glossy finish.  Contains high iron amoun
 
 <img src="./img/types/iron-tenmoku-2.jpg" alt="Tenmoku Glaze" width="300">
 
-Jian tea bowl with "hare's fur" glaze, southern Song dynasty, 12th century, Metropolitan Museum of Art.
+*Jian tea bowl with "hare's fur" glaze, southern Song dynasty, 12th century, Metropolitan Museum of Art.*
 
 [Wikipedia: Jian ware](https://en.wikipedia.org/wiki/Jian_ware)
 
@@ -158,7 +158,7 @@ Jian tea bowl with "hare's fur" glaze, southern Song dynasty, 12th century, Metr
 
 <img src="./img/types/iron-tenmoku.jpg" alt="Tenmoku Glaze" width="300">
 
-[Song Dynasty Inspired Tianmu/Tenmoku Glaze](https://glazy.org/recipes/22939)
+*[Song Dynasty Inspired Tianmu/Tenmoku Glaze](https://glazy.org/recipes/22939)*
 
 ##### [Tea Dust](https://glazy.org/search?base_type=460&type=550)
 
@@ -166,15 +166,15 @@ Traditional Chinese glaze with speckled crystals.
 
 <img src="./img/types/iron-tea-dust-sothebys.jpg" alt="Tea Dust Glaze" width="300">
 
-Chinese Tea Dust glazed vase, via Sotheby's
+*Chinese Tea Dust glazed vase, via Sotheby's*
 
 <img src="./img/types/iron-tea-dust-colors.jpg" alt="Tea Dust Glaze" width="300">
 
-Various shades of teadust glazes on Chinese antiques.
+*Various shades of teadust glazes on Chinese antiques.*
 
 <img src="./img/types/iron-tea-dust.jpg" alt="Tea Dust Glaze" width="300">
 
-[Coleman Tea Dust Black](https://glazy.org/recipes/3308)
+*[Coleman Tea Dust Black](https://glazy.org/recipes/3308)*
 
 ##### [Hare's Fur](https://glazy.org/search?base_type=460&type=560)
 
@@ -182,7 +182,7 @@ Traditional Chinese glaze with streaked effect, resembling a hare's fur.
 
 <img src="./img/types/iron-hares-fur.jpg" alt="Hares fur Glaze" width="300">
 
-View of the "hare's fur" glazing effect on a Jian bowl [Wikipedia: Jian ware](https://en.wikipedia.org/wiki/Jian_ware)
+*View of the "hare's fur" glazing effect on a Jian bowl [Wikipedia: Jian ware](https://en.wikipedia.org/wiki/Jian_ware)*
 
 ##### [Kaki, Tomato Red](https://glazy.org/search?base_type=460&type=570)
 
@@ -190,7 +190,7 @@ Iron-saturate glazes with large amounts of iron (often over 10%) that develop a 
 
 <img src="./img/types/iron-kaki.jpg" alt="Iron Kaki Tomato Red Glaze" width="300">
 
-[Kaki Biaxial D4](https://glazy.org/recipes/25001)
+*[Kaki Biaxial D4](https://glazy.org/recipes/25001)*
 
 ##### [Oil Spot](https://glazy.org/search?base_type=460&type=580)
 
@@ -198,11 +198,11 @@ Traditional Chinese iron glaze with dark background and lighter "spots" that res
 
 <img src="./img/types/iron-oil-spot-jian.jpg" alt="Jian ware Oil-spot Glaze" width="300">
 
-[Wikipedia: Jian ware](https://en.wikipedia.org/wiki/Jian_ware)
+*[Wikipedia: Jian ware](https://en.wikipedia.org/wiki/Jian_ware)*
 
 <img src="./img/types/iron-oil-spot.jpg" alt="Oil-spot Glaze" width="300">
 
-[John's Oil Spot #3](https://glazy.org/recipes/541), by John Britt
+*[John's Oil Spot #3](https://glazy.org/recipes/541), by John Britt*
 
 ##### [Slip-Based](https://glazy.org/search?base_type=460&type=585)
 
@@ -210,7 +210,7 @@ Glazes formulated with high iron content clays like Albany, Alberta, and Redart.
 
 <img src="./img/types/iron-slip-based.jpg" alt="Slip-based Iron Glaze" width="300">
 
-[Andies Handful of Earth](https://glazy.org/recipes/5211), image by Hette Hillsdon.
+*[Andies Handful of Earth](https://glazy.org/recipes/5211), image by Hette Hillsdon.*
 
 ### [Shino](https://glazy.org/search?base_type=460&type=590)
 
@@ -218,7 +218,7 @@ Traditional Japanese high-feldspar/high-alkali, opaque, fatty glaze.
 
 <img src="./img/types/shino.jpg" alt="Shino Glaze" width="300">
 
-Shino ware tea bowl furisode, Azuchi-Momoyama to Edo period, 16th-17th century [Wikipedia: Shino ware](https://en.wikipedia.org/wiki/Shino_ware)
+*Shino ware tea bowl furisode, Azuchi-Momoyama to Edo period, 16th-17th century [Wikipedia: Shino ware](https://en.wikipedia.org/wiki/Shino_ware)*
 
 ##### [Traditional](https://glazy.org/search?base_type=460&type=600)
 
@@ -230,7 +230,7 @@ A Shino that traps carbon during firing, creating various surface effects & colo
 
 <img src="./img/types/shino-carbon-trap.jpg" alt="High-alumina Shino Glaze" width="300">
 
-[Gustin Shino](https://glazy.org/recipes/2971) via John Britt.
+*[Gustin Shino](https://glazy.org/recipes/2971) via John Britt.*
 
 ##### [High-Alumina](https://glazy.org/search?base_type=460&type=620)
 
@@ -238,7 +238,7 @@ High-alumina Shinos.
 
 <img src="./img/types/shino-high-alumina.jpg" alt="High-alumina Shino Glaze" width="300">
 
-[Mino Shino](https://glazy.org/recipes/2991) via John Britt
+*[Mino Shino](https://glazy.org/recipes/2991) via John Britt*
 
 ##### [White](https://glazy.org/search?base_type=460&type=630)
 
@@ -256,21 +256,43 @@ Glazes that obtain their red color through the effect of copper.
 
 Sub-type of traditional Chinese copper-red glaze.
 
+<img src="./img/types/red-copper-oxblood.jpg" alt="Oxblood Glaze" width="300">
+
+[Wikipedia: Sang de boeuf glaze](https://en.wikipedia.org/wiki/Sang_de_boeuf_glaze)
+
+<img src="./img/types/red-copper-oxblood-2.jpg" alt="Oxblood Glaze" width="300">
+
+*[Pete's Red](https://glazy.org/recipes/17547) via Sid Henderson*
+
 ##### [Flambe](https://glazy.org/search?base_type=460&type=660)
 
 Sub-type of traditional Chinese copper-red glaze.
+
+<img src="./img/types/red-copper-flambe.jpg" alt="Flambe Glaze" width="300">
+
+*[Flambe-glazed Three-handled Vase, Qianlong](https://glazy.org/search?base_type=460&type=670) via Christie's*
 
 ##### [Peach Bloom](https://glazy.org/search?base_type=460&type=670)
 
 Sub-type of traditional Chinese copper-red glaze.
 
-### [Pink](https://glazy.org/search?base_type=460&type=673)
+<img src="./img/types/red-copper-peachbloom.jpg" alt="Peachbloom Glaze" width="300">
 
-Various shades of pink glazes.
+*[Qing Dynasty Water pot](https://www.metmuseum.org/art/collection/search/460689)*
+
+#### [Pink](https://glazy.org/search?base_type=460&type=673)
+
+Pink glazes are often created using small amounts of Chrome or by using stains.
+
+<img src="./img/types/red-pink.jpg" alt="Pink Glaze" width="300">
+
+*[20ish x5 Pink](https://glazy.org/recipes/39156) via Andy Taylor.*
 
 #### [Stain](https://glazy.org/search?base_type=460&type=675)
 
 Glazes using commercial ceramic stains for red color.
+
+<img src="./img/types/red-stains.jpg" alt="Red stain" width="300">
 
 ### [Green](https://glazy.org/search?base_type=460&type=680)
 
@@ -280,9 +302,33 @@ Green glazes developed via a number of mechanisms.
 
 #### [Oribe](https://glazy.org/search?base_type=460&type=700)
 
+Green is the typical colour of Oribe ware, along with white. The original Chinese green was a smooth, even colour like celadon. Oribe, however, tried to use different shades of more natural green, in order to reflect green mountains or riverside scenes. For the brilliant green color, wares are fired using oxidation at 1220 degrees Celsius.
+
+[Wikipedia: Oribe ware](https://en.wikipedia.org/wiki/Oribe_ware)
+
+<img src="./img/types/green-oribe.jpg" alt="oribe glaze" width="300">
+
+*[An Oribe Bottle](https://www.christies.com/lot/lot-4004174) via Christie's.*
+
 #### [Chrome](https://glazy.org/search?base_type=460&type=710)
 
+Green glazes can be obtained with small amounts of chrome (1% or less).
+
+<img src="./img/types/green-chrome.jpg" alt="Green chrome glaze" width="300">
+
+*[Rivulet Green](https://glazy.org/recipes/361011) via Matt Kelleher*
+
 #### [Titanium](https://glazy.org/search?base_type=460&type=720)
+
+Titania often acts as a color modifier, turning celadons with iron green, working with copper for beautiful greens, even turning cobalt a shade of green.
+
+<img src="./img/types/green-titanium-2.jpg" alt="Green titanium glaze" width="300">
+
+*[Vert CoTi](https://glazy.org/recipes/53570) via Jean-Pierre Prieto showing cobalt and titania producing green.*
+
+<img src="./img/types/green-titanium.jpg" alt="Green titanium glaze" width="300">
+
+*[Чунь №1](https://glazy.org/recipes/257554) via Alexandra Shcherbakova showing copper and titania greens.*
 
 #### [Nickel](https://glazy.org/search?base_type=460&type=730)
 
@@ -385,12 +431,11 @@ Traditional opaque tin glaze, often used as a ground for overglaze decoration.
 
 <img src="./img/types/majolica.jpg" alt="majolica dish" width="300">
 
-Polychrome majolica dish with paintings of a fish, flowers, and fruit. Lodi, Italy, 1751. [Wikipedia: Maiolica](https://en.wikipedia.org/wiki/Maiolica)
+*Polychrome majolica dish with paintings of a fish, flowers, and fruit. Lodi, Italy, 1751. [Wikipedia: Maiolica](https://en.wikipedia.org/wiki/Maiolica)*
 
 <img src="./img/types/majolica-2.jpg" alt="majolica dish" width="300">
 
-[San Diego State U Majolica (modified)](https://glazy.org/recipes/153552) via David Sackett.
-
+*[San Diego State U Majolica (modified)](https://glazy.org/recipes/153552) via David Sackett.*
 
 ### [Bristol](https://glazy.org/search?base_type=460&type=1110)
 
@@ -398,8 +443,7 @@ A glaze that relies on the fluxing action of Zinc Oxide for fully melting, even 
 
 <img src="./img/types/bristol.jpg" alt="Bristol Glaze" width="300">
 
-[Bristol glaze base](https://glazy.org/recipes/69994) via Eric P.
-
+*[Bristol glaze base](https://glazy.org/recipes/69994) via Eric P.*
 
 ### [Specialty](https://glazy.org/search?base_type=460&type=1130)
 
@@ -407,7 +451,7 @@ A glaze that relies on the fluxing action of Zinc Oxide for fully melting, even 
 
 <img src="./img/types/specialty-crackle.jpg" alt="Crackle Glaze" width="300">
 
-[Snowflake Crackle #8](https://glazy.org/recipes/7052) via Clara Giorello
+*[Snowflake Crackle #8](https://glazy.org/recipes/7052) via Clara Giorello*
 
 #### [Crawling](https://glazy.org/search?base_type=460&type=1150)
 
@@ -415,7 +459,7 @@ Glazes that pull away from the clay body during firing, creating a crawling effe
 
 <img src="./img/types/specialty-crawling.jpg" alt="Crawling Glaze" width="300">
 
-[Brain Coral Crawl / Lichen Crawl](https://glazy.org/recipes/27803) via Jake Glaze
+*[Brain Coral Crawl / Lichen Crawl](https://glazy.org/recipes/27803) via Jake Glaze*
 
 #### [Gloop](https://glazy.org/search?base_type=460&type=1155)
 
@@ -423,7 +467,7 @@ A glaze that sits between glaze and clay, with drips.
 
 <img src="./img/types/specialty-gloop.jpg" alt="Gloop Glaze" width="300">
 
-[Gloop Biaxial with B2O3 0.3](https://glazy.org/recipes/59365)
+*[Gloop Biaxial with B2O3 0.3](https://glazy.org/recipes/59365)*
 
 #### [Crater](https://glazy.org/search?base_type=460&type=1160)
 
@@ -431,7 +475,7 @@ Glazes that form craters or pits on the surface.
 
 <img src="./img/types/specialty-crater.jpg" alt="Crater Glaze" width="300">
 
-[Akiko's crater glaze](https://glazy.org/recipes/4454) via kenneth ibbett
+*[Akiko's crater glaze](https://glazy.org/recipes/4454) via kenneth ibbett*
 
 #### [Metallic](https://glazy.org/search?base_type=460&type=1170)
 
@@ -439,4 +483,4 @@ Glazes with metallic sheen, often through the use of high amounts of colorants/a
 
 <img src="./img/types/specialty-metallic.jpg" alt="Metallic Glaze" width="300">
 
-[Gold](https://glazy.org/recipes/198013) via Kim Ulrick
+*[Gold](https://glazy.org/recipes/198013) via Kim Ulrick*
