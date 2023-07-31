@@ -1,5 +1,6 @@
 import { defaultTheme } from "vuepress";
-import { searchPlugin } from "@vuepress/plugin-search";
+import { docsearchPlugin } from '@vuepress/plugin-docsearch'
+import { sitemapPlugin } from "vuepress-plugin-sitemap2";
 
 export default {
   base: "/",
@@ -36,8 +37,13 @@ export default {
     ["meta", { name: "msapplication-TileColor", content: "#000000" }],
   ],
   plugins: [
-    searchPlugin({
-      // options
+    docsearchPlugin({
+      apiKey: '1a11d1736f32929316b28a3f2089cd3e',
+      appId: '69XZPLFDXO',
+      indexName: 'help-glazy',
+    }),
+    sitemapPlugin({
+      hostname: "https://help.glazy.org",      
     }),
   ],
   serviceWorker: true,
