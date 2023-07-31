@@ -13,7 +13,8 @@ It does not list bug fixes, minor updates, or software upgrades.
 
 #### July
 
-Fixes: Similar cones, quicksearch links, similar cones.
+- Glazy Help: Upgrade system, add Algolia full-text search, add Clay & Glaze types and Glossary.
+- Fixes: Similar cones, quicksearch links, similar cones.
 
 #### May
 

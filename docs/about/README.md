@@ -10,12 +10,6 @@ The Glazy website was created by [Derek Au](http://www.derekau.net/).
 
 Glazy is in continuous development, guided by technical input from a number of potters around the world. In particular, [Pieter Mostert](http://www.pietermostert.com/) and [Matt Katz](https://www.ceramicmaterialsworkshop.com/) have provided invaluable insights and suggestions.
 
-## About the Software
-
-Glazy was built using the latest open source tools, including [Laravel](https://laravel.com/), [Vue](https://vuejs.org/),[D3](https://d3js.org/), [Bootstrap](https://getbootstrap.com/), and [bootstrap-vue](https://bootstrap-vue.js.org/).  This documentation was made using [Vuepress](https://vuepress.vuejs.org/).
-
-[Glazy Documentation Repository](https://github.com/derekphilipau/glazypress)
-
 ## Getting Help
 
 Ideas for improving Glazy?  Encounter a bug?  Questions about glazes in general?  Just log into Glazy and click the "? Help" button to create a new Glazy Help Post (see screenshot below).
@@ -24,7 +18,7 @@ Ideas for improving Glazy?  Encounter a bug?  Questions about glazes in general?
 
 ## Contacting Glazy
 
-Glazy is a work in progress. If you notice a bug or have an idea to improve Glazy, please contact us at **derek [at] glazy [dot] org**.
+Glazy is a work in progress. If you notice a bug or have an idea to improve Glazy, please contact Derek at **derek [at] glazy [dot] org**.
 
 ## Privacy, Terms of Use & Community Guidelines
 
