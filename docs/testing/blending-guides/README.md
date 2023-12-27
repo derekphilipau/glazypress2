@@ -8,7 +8,7 @@ These Volumetric Blending Guides in PDF format can be downloaded and viewed on a
 
 ## Print or Download a Poster
 
-High-quality posters are available for purchase on Glazy's Etsy shop:  [https://www.etsy.com/shop/glazyorg](https://www.etsy.com/shop/glazyorg)
+High-quality posters are available for purchase on Glazy's Etsy shop: [https://www.etsy.com/shop/glazyorg](https://www.etsy.com/shop/glazyorg)
 
 Alternatively, you can download the PDF's below and either print them yourself or save them on your phone for handy reference.
 

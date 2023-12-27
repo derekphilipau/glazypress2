@@ -2,14 +2,14 @@
 
 ## What are cones?
 
-Firing ceramics in a kiln is a bit like cooking a pizza in the oven.  As with Italian wood-fired stoves, you could set your oven on very high heat and cook the pizza in just four minutes.  Or you could cook the pizza for a longer amount of time at lower heat.  Either way, you'll end up with edible pizza.
+Firing ceramics in a kiln is a bit like cooking a pizza in the oven. As with Italian wood-fired stoves, you could set your oven on very high heat and cook the pizza in just four minutes. Or you could cook the pizza for a longer amount of time at lower heat. Either way, you'll end up with edible pizza.
 
-Pyrometric cones are a measurement of the total amount of _heatwork_.  _Heatwork_ is the combination of time _and_ temperature.  We can say that two pizzas received a similar amount of heatwork if they are both fully cooked, even if they were cooked at different temperatures for different durations of time.  Similarly, we can say that two ceramic vases were fired to a certain _cone_ (e.g. similar amount of heatwork) even if the firings were different in temperature & time.
+Pyrometric cones are a measurement of the total amount of _heatwork_. _Heatwork_ is the combination of time _and_ temperature. We can say that two pizzas received a similar amount of heatwork if they are both fully cooked, even if they were cooked at different temperatures for different durations of time. Similarly, we can say that two ceramic vases were fired to a certain _cone_ (e.g. similar amount of heatwork) even if the firings were different in temperature & time.
 
-It's important to note that firings are often _uneven_: a kiln may have cool and hot spots, and the difference in temperature may be one or more cones.  Just because a cone has fallen doesn't mean the entire kiln (including the ceramics and kiln furniture) has also reached that cone temperature.  So it's a good idea to sometimes place extra cones throughout the kiln to determine if the firing is even.
+It's important to note that firings are often _uneven_: a kiln may have cool and hot spots, and the difference in temperature may be one or more cones. Just because a cone has fallen doesn't mean the entire kiln (including the ceramics and kiln furniture) has also reached that cone temperature. So it's a good idea to sometimes place extra cones throughout the kiln to determine if the firing is even.
 
 For more information on cones, see the excellent Digitalfire article
-[Interpreting Orton Cones](https://digitalfire.com/4sight/education/interpreting_orton_cones_193.html) as well as Orton's [Pyrometric Cones Resources](https://www.ortonceramic.com/Resources/Pyrometric_Cones/).
+[Pyrometric Cone](https://digitalfire.com/glossary/pyrometric+cone) as well as Orton's [Pyrometric Cones Resources](https://www.ortonceramic.com/pyrometric-cones).
 
 ## Setting & Reading Cones
 
@@ -35,7 +35,7 @@ Measure your cones and memorize how deeply they should be mounted.
 _After flattening a coil of clay, push cones downwards so that the angle is identical with a cone placed directly on the flat surface._
 
 ![conepack1b](./img/conepack1b.jpg)
-_Wet cone packs can explode.  Make your packs in advance or poke holes into the pack to let steam to escape._
+_Wet cone packs can explode. Make your packs in advance or poke holes into the pack to let steam to escape._
 
 This cone pack is for an Orton cone 10 firing.
 
@@ -45,7 +45,7 @@ The _guard_ cone 11 will let us know if we are beginning to overfire.
 While more expensive, pre-made cone plaques and self-supporting cones eliminate height and angle inconsistencies.
 
 ![conepacklow](./img/conepacklow.jpg)
-_For mid and high fire, a "boat" is made to catch low-temperature cones.  This boat is a folded slab._
+_For mid and high fire, a "boat" is made to catch low-temperature cones. This boat is a folded slab._
 
 ![conesinkiln](./img/conesinkiln.jpg)
 _Viewing low-temperature cones in the kiln at about 900°C. Cone 010 is bending, while 08, 1, and 3 have not moved. It's advisable to place cone packs at the top and bottom of your kiln in order to understand and control temperature differences while firing._
@@ -54,10 +54,10 @@ _Viewing low-temperature cones in the kiln at about 900°C. Cone 010 is bending,
 _A cone pack after firing. In this firing, once cone 9 fell to 5 o'clock the kiln was intentionally stalled. Even though the temperature did not rise, cone 10 completely fell after about one hour. Cones measure **heatwork**, the effect of both temperature **and** time._
 
 ![template](./img/template.jpg)
-The [Orton Cone Template](https://www.ortonceramic.com/en/Cone%20Template%20Centigrade/cat/13150) can be used to determine the degree of deformation for Orton cones.
+The [Orton Cone Template](https://www.ortonceramic.com/product-page/digital-cone-template) can be used to determine the degree of deformation for Orton cones.
 
 ![chinesecones](./img/chinesecones.jpg)
-_Inexpensive Chinese cones.  Cones 7 and 9 are down, but cone 8 is still standing. The entire box of cones should be thrown away.  But which cone is defective, 8 or 9? Compared to the cost of a firing and the work inside, the cost of cones is negligible. Buy the most reliable cones you can find._
+_Inexpensive Chinese cones. Cones 7 and 9 are down, but cone 8 is still standing. The entire box of cones should be thrown away. But which cone is defective, 8 or 9? Compared to the cost of a firing and the work inside, the cost of cones is negligible. Buy the most reliable cones you can find._
 
 ![ConeDiagram2_1200|690x219](./img/ConeDiagram2_1200.png)
 
@@ -86,11 +86,12 @@ _#5 welding goggles and 2000 lumens LED flashlight._
 ## Temperature Equivalent Charts for Cones
 
 References:
-* [Orton - Pyrometric Cones](https://www.ortonceramic.com/Resources/Pyrometric_Cones/)
-* [Digitalfire - Interpreting Orton Cones](http://digitalfire.com/4sight/education/interpreting_orton_cones_193.html)
+
+- [Orton - Pyrometric Cones](https://digitalfire.com/glossary/pyrometric+cone)
+- [Digitalfire - Pyrometric Cones](https://www.ortonceramic.com/pyrometric-cones)
 
 ## Orton Pyrometric Cones Celsius (°C)
-                    
+
 <table class="table table-striped table-bordered table-hover table-condensed">
 <thead>
 <tr>

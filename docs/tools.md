@@ -48,11 +48,12 @@ GlazeMaster 3 Downloads (now free, including FileMaker source)
 
 Some other good resources to search for ceramics info:
 
+- <a href="http://digitalfire.com">Digitalfire</a>
 - <a href="http://community.ceramicartsdaily.org">Ceramic Arts Daily Forums</a>
+- <a href="https://groups.google.com/g/clayartarch">Clayart Archive on Google Groups</a>
+<!--
+- <a href="http://cone6pots.ning.com/">Electric Cone 6 & Other Ways w/ Clay</a>
 - <a href="http://archives.clayartarchives.com/">Clayart Archives (1996-2008)</a>
 - <a href="http://potters.org">Clayart Archives (?-2012)</a>
 - <a href="https://lists.clayartworld.com/pipermail/clayart/">Clayart Archives (2014-Present)</a>
-- <a href="http://digitalfire.com">Digitalfire</a>
-<!--
-<a href="http://cone6pots.ning.com/">Electric Cone 6 & Other Ways w/ Clay</a>
--->
+  -->
