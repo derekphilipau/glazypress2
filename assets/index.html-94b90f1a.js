@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4eabb1a6","path":"/testing/triaxials/","title":"Triaxial Blends","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1626562640000},"filePathRelative":"testing/triaxials/README.md"}');export{t as data};

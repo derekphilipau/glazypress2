@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-dee53bd4","path":"/about/health-carty.html","title":"Overview of Glaze and Glazing Safety","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Presentation","slug":"presentation","link":"#presentation","children":[]}],"git":{"updatedTime":1626562640000},"filePathRelative":"about/health-carty.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as o,a as e,d as r}from"./app-f8975def.js";const t={},c=e("h1",{id:"formula-analysis",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#formula-analysis","aria-hidden":"true"},"#"),r(" Formula Analysis")],-1),n=[c];function l(_,d){return s(),o("div",null,n)}const f=a(t,[["render",l],["__file","formula.html.vue"]]);export{f as default};

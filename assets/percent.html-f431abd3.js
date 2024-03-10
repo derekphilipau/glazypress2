@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4306e93c","path":"/concepts/analysis/percent.html","title":"Percent Analysis","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1690737099000},"filePathRelative":"concepts/analysis/percent.md"}');export{e as data};

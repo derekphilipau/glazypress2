@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3fc40d0c","path":"/concepts/limits/","title":"Limit Formulas","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Glaze Limit Formulas","slug":"glaze-limit-formulas","link":"#glaze-limit-formulas","children":[]}],"git":{"updatedTime":1626562640000},"filePathRelative":"concepts/limits/README.md"}');export{t as data};

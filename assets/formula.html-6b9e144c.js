@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-f4e7ee8a","path":"/concepts/analysis/formula.html","title":"Formula Analysis","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1626562640000},"filePathRelative":"concepts/analysis/formula.md"}');export{a as data};
