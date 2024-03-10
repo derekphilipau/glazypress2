@@ -2,14 +2,36 @@
 
 ## Roadmap
 
-Due to Glazy's growth, for 2023 a major update is required to improve Glazy's performance.
+Due to Glazy's growth, for 2024 a major update is required to improve Glazy's performance. I'm currently working on developing a new version of Glazy that fixes many of the issues that have arisen over the years.
 
 ## Changelog
 
 Note: This abbreviated changelog only includes new feature additions to Glazy.
 It does not list bug fixes, minor updates, or software upgrades.
 
+## 2024
+
+#### February
+
+- UI fixes:
+  - Bookmark folder deletion
+  - "100+" button for normalizing to 100% except additives
+  - Material zero amount bug
+  - Card badges, add material ID.
+
+#### January
+
+- Material stages: Don't allow discontinued to move to testing.
+
 ## 2023
+
+#### September
+
+- YAML export functionality
+
+#### August
+
+- Begin development of new frontend.
 
 #### July
 
@@ -67,8 +89,8 @@ Improve user deletion, check for new users.
 
 #### July
 
-Ability to mute user, fix translations.
-Ability to force refresh logs.
+- Ability to mute user, fix translations.
+- Ability to force refresh logs.
 
 #### June
 

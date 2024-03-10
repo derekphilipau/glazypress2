@@ -20,27 +20,9 @@ If you are currently a student or teacher in Ceramics or a related Visual Arts d
 
 ### Become a Patron Now!
 
-[Click this link to become a Glazy Patreon patron.](https://www.patreon.com/bePatron?u%253D5941215)
+[Click this link to become a Glazy Patreon patron.](https://www.patreon.com/join/derekau)
 
-[![Become a Patreon Sponsor](./img/patreon-logo.png)](https://www.patreon.com/bePatron?u=5941215)
-
-<!--
-### PayPal
-
-**To avoid the hassle of monthly contributions, just make a one-time donation.** Users will receive the Patron badge & special features at the rate of $2 per month.
-
-For example:
-
-- One-time $2 contribution for 1 month of Patron status
-- One-time $24 contribution for 12 months of Patron status
-
-**Subscription donations** of at least $2 per month also get the "Patron" badge and special features listed below.
-_NOTE: Please allow 24 hours for your Glazy Patron status to be updated._
-
-[To make a one-time or recurring donation to Glazy using Paypal, click here or on the _"Donate"_ button below.](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url)
-
-[![Donate to Glazy via Paypal!](./img/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url)
--->
+[![Become a Patreon Sponsor](./img/patreon-logo.png)](https://www.patreon.com/join/derekau)
 
 ## Glazy Patron Special Features
 
